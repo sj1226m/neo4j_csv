@@ -1,0 +1,1432 @@
+filePath:ID(File)
+C:\AtomicRedTeam\ExternalPayloads\procdump64.exe
+C:\Program Files (x86)\KeyScrambler\DriverInstaller.exe
+C:\Program Files (x86)\KeyScrambler\KeyScramblerIE.dll
+C:\Program Files (x86)\KeyScrambler\KeyScramblerLogon.exe
+C:\Program Files (x86)\KeyScrambler\Languages\KSLangCHT.dll
+C:\Program Files (x86)\KeyScrambler\Languages\KSLangJPN.dll
+C:\Program Files (x86)\KeyScrambler\QFXUpdateService.exe
+C:\Program Files (x86)\KeyScrambler\Uninstall.exe
+C:\Program Files (x86)\KeyScrambler\keyscrambler.sys
+C:\Program Files (x86)\KeyScrambler\x64\DriverInstaller.exe
+C:\Program Files (x86)\KeyScrambler\x64\KeyScramblerIE.dll
+C:\Program Files (x86)\KeyScrambler\x64\KeyScramblerLogon.exe
+C:\Program Files (x86)\KeyScrambler\x64\Languages\KSLangCHT.dll
+C:\Program Files (x86)\KeyScrambler\x64\Languages\KSLangJPN.dll
+C:\Program Files (x86)\KeyScrambler\x64\NSIS.Library.RegTool.v3.{5302CB23-9649-4415-BA27-091179B58D88}.exe
+C:\Program Files (x86)\KeyScrambler\x64\QFXUpdateService.exe
+C:\Program Files (x86)\KeyScrambler\x64\keyscrambler.sys
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\CDS.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\Microsoft.Exchange.Clients.SmimeAX.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\Microsoft.Internal.EmailMessage.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\Microsoft.Internal.Mime.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\SeamlessLaunch.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\WebView2Loader.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\boost_json-vc143-mt-x64-1_87.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\boost_program_options-vc143-mt-x64-1_87.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\bz2.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\concrt140.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\cpprest_2_10.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\lowTrustBackgroundTask.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\minizip.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\modules\mmoutlookwebcontext\mmoutlookwebcontext.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\modules\mmpiehost\mmpiehost.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\modules\mmwebhostsystem\mmwebhostsystem.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\modules\nh-mod-auth\nh-mod-auth.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\modules\olk-mod-general\olk-mod-general.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\msvcp140.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\msvcp140_1.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\msvcp140_2.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\msvcp140_atomic_wait.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\msvcp140_codecvt_ids.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\nh.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\olk.exe
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\olkBg.exe
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\olkFullTrustExecutor.exe
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\olkPushNotificationBackgroundTask.exe
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\olkmain.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\olknh.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\relaunchNativeHost.exe
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\vcruntime140.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\vcruntime140_1.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\win32gql.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\xpdAgent.exe
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\xpdApi.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\zip.dll
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.0_x64__8wekyb3d8bbwe\zlib1.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettings.exe
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\WindowsAdvancedSettings.exe
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\bg-BG\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\ca-ES\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\cs-CZ\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\da-DK\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\de-DE\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\el-GR\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\es-ES\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\et-EE\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\eu-ES\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\fi-FI\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\fr-FR\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\gl-ES\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\hi-IN\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\hr-HR\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\hu-HU\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\id-ID\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\it-IT\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\ja-JP\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\kk-KZ\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\ko-KR\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\lt-LT\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\lv-LV\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\ms-MY\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\nb-NO\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\nl-NL\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\pl-PL\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\pt-BR\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\pt-PT\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\ro-RO\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\ru-RU\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\sk-SK\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\sl-SI\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\sr-Cyrl-RS\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\sr-Latn-RS\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\sv-SE\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\th-TH\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\tr-TR\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\uk-UA\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\vi-VN\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\zh-CN\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\WindowsAdvancedSettingsStub\zh-TW\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\bg-BG\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\ca-ES\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\cs-CZ\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\da-DK\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\de-DE\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\el-GR\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\es-ES\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\et-EE\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\eu-ES\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\fi-FI\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\fr-FR\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\gl-ES\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\hi-IN\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\hr-HR\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\hu-HU\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\id-ID\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\it-IT\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\ja-JP\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\kk-KZ\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\ko-KR\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\lt-LT\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\lv-LV\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\ms-MY\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\nb-NO\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\nl-NL\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\pl-PL\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\pt-BR\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\pt-PT\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\ro-RO\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\ru-RU\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\sk-SK\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\sl-SI\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\sr-Cyrl-RS\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\sr-Latn-RS\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\sv-SE\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\th-TH\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\tr-TR\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\uk-UA\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\vi-VN\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\zh-CN\WindowsAdvancedSettings.resources.dll
+C:\Program Files\WindowsApps\Microsoft.Windows.DevHome_0.2100.858.0_x64__8wekyb3d8bbwe\zh-TW\WindowsAdvancedSettings.resources.dll
+C:\Program Files\windows_service.exe
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\KeyScrambler\Getting Started.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\KeyScrambler\KeyScrambler Options.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\KeyScrambler\KeyScrambler User Manual.url
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\KeyScrambler\KeyScrambler.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\KeyScrambler\QFX Software Homepage.url
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\KeyScrambler\Uninstall KeyScrambler.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\T1547.009.lnk
+C:\ProgramData\Microsoft\Windows\WER\Temp\WER.10f9e878-7e5a-49db-902a-0c12d8b6211b.tmp.dmp
+C:\ProgramData\Microsoft\Windows\WER\Temp\WER.29112e91-2aad-47d3-b5a0-665d0482e0f1.tmp.dmp
+C:\ProgramData\Microsoft\Windows\WER\Temp\WER.4aa1f861-9e1f-4a80-805f-0d51f810dbd2.tmp.dmp
+C:\ProgramData\Microsoft\Windows\WER\Temp\WER.5488caad-fc1a-453f-ad89-f8ad4e1a547a.tmp.dmp
+C:\ProgramData\Microsoft\Windows\WER\Temp\WER.57374b89-b1ea-4b86-a2ca-8496798a2072.tmp.dmp
+C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9e9ee9a3-afef-46c7-ab18-3d6465395244.tmp.dmp
+C:\ProgramData\Microsoft\Windows\WER\Temp\WER.a3443511-f4ec-4281-a90c-dabbd1656f33.tmp.dmp
+C:\ProgramData\Microsoft\Windows\WER\Temp\WER.bc08f533-3203-401c-8835-256287eb7e06.tmp.dmp
+C:\ProgramData\cmd.exe
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\VCRUNTIME140.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-console-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-datetime-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-debug-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-file-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-file-l1-2-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-file-l2-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-handle-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-heap-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-interlocked-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-localization-l1-2-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-memory-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-processthreads-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-processthreads-l1-1-1.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-profile-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-string-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-synch-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-synch-l1-2-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-timezone-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-core-util-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-crt-conio-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-crt-process-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\libcrypto-1_1.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\libssl-1_1.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\msvcp100.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\msvcr100.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\python37.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\sqlite3.dll
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI29282\ucrtbase.dll
+C:\Users\Administrator\AppData\Local\Temp\2vy02cbg\2vy02cbg.cmdline
+C:\Users\Administrator\AppData\Local\Temp\2vy02cbg\2vy02cbg.dll
+C:\Users\Administrator\AppData\Local\Temp\51mtidio\51mtidio.cmdline
+C:\Users\Administrator\AppData\Local\Temp\51mtidio\51mtidio.dll
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_02nzvfvn.5nr.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_0325h4a2.vvd.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_0aid1lse.1zf.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_0hjdb5ck.zkp.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_0lkylxha.v4j.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_0vefblzf.jon.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_0yo5w4kc.hdp.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_1gbehe3q.erf.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_1gk43f5r.k45.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_1jflnyq0.hhd.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_1mk3sziy.ele.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_1tp1hrvi.ylu.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_1urwnyph.qiv.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_1wbuqj50.baj.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_1wcqso5l.irj.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_2cfsrwrt.gng.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_2cqa104d.xtj.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_2ec1qz4y.ccv.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_2hijnjpb.xge.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_2hyx2ydo.ar5.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_2sng2344.yl1.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_320oz3wb.vl2.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_3fa2odqr.kbp.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_3nbyjezb.gzx.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_3qzxgamu.ilc.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_3v1ytojq.qa0.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_3x3vc4im.koj.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_44d1s2av.z5o.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_4kgyczre.eh2.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_4plz1jv1.g5r.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_51ql1atf.img.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_5i1otvn3.m2q.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_5ibp5kc5.x1p.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_5mm0hwn5.cnn.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_5typqird.ydk.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_5y1zcc4f.42v.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_5zl0grbm.i4g.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_a0mxl0gt.d12.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_a1rlratp.bh4.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_ah4zezhw.0mz.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_akakp5mz.kvs.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_arnnxnea.hj3.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_butvxz5b.aj4.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_byw2fjre.qhd.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_c0h1z5i3.fnp.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_c1230hyk.sdv.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_chfq5qvx.zxm.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_clolbxvb.rxh.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_cvrt3uzq.job.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_cvselgid.qta.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_d4uak3uw.cch.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_d5l3t5bl.lbs.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_debj5s5w.tiq.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_dgrllztc.qxf.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_dlrzeljx.rts.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_dzjnvmjq.3hu.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_e2h3d5ca.k50.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_e4l2v4wn.bps.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_ebiq1nvl.mzn.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_ekie5rd5.dow.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_etfqegei.oxh.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_exqyb31m.hbb.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_f21mcaqk.5ad.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_f2dpbcwg.hus.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_f3m2nlb1.s4m.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_fdw0lb5e.lkc.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_ffkv4dma.kjr.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_ffwvihcs.u5t.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_fmjzg5oy.w5c.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_fphxiu4f.d5m.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_fqmyngn2.e2k.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_fx4ak1zk.rsy.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_fyok03zd.0qn.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_fz0kvpqn.nxx.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_glv3e5nk.jw0.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_gmnz3x5e.b1h.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_gqonns2h.lv4.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_hgn0pfoi.rbe.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_hhlywimx.l0z.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_ho4p4jx2.kot.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_hpao4j2s.vpz.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_hrqfomgm.3ic.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_hwrndpid.ssq.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_ifw1x5x4.3uk.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_ilugp420.1ev.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_io44gcbz.pxv.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_iqm1nfav.mxh.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_itujktma.om0.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_iupnl2p1.zj3.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_ixsph4uv.5lh.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_jabypu5j.11d.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_jhrujmk4.0ph.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_jpskhadd.tt5.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_jretyvep.y2d.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_kdz0z2yw.wrg.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_kiu0jg4o.bpf.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_l0gvkmko.44y.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_l1tyuvd0.but.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_l54hhijl.hj1.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_lactmflz.nzd.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_lhr1kfb5.apl.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_ljoowcfe.byf.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_lqkiw4i5.opj.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_lxpka4wj.cq5.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_mg5hefsi.umu.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_n1j1mjmw.opa.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_nhv2bahh.w4w.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_nrdxhtvw.cn4.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_ns12t3fg.hh3.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_ntfingct.v0f.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_ouabxt2w.fph.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_owkboz2d.4c2.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_oyib0ffp.otv.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_p30bmybv.dgs.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_p3ruuimt.0ud.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_peymlcgd.tnl.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_pffl3dqr.vee.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_pgzqcvpx.wc5.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_q4dou4ua.ulc.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_qhavvbwt.lzi.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_qk3vzfkl.mlg.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_qklrbhyf.imx.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_qw0fk1jl.w4k.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_qw24jc3f.t3h.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_r1np3h1q.pfd.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_r5dirgot.snj.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_r5drf4jq.xwy.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_rhjzyljp.v0z.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_rhut05lf.rtm.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_rilo5uym.2fg.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_s45q5f2n.cxi.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_sbf3fmjh.3gh.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_sf3tl1gx.0c5.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_slgakxjo.dfi.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_tfydtvqp.u2k.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_tlqyi1ps.uia.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_tu0aghhz.tge.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_ty1xdjha.qmx.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_u3jqz240.drx.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_ubzfje3h.tl1.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_ugrhih0a.s2b.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_v4kd02lv.utq.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_vcu42l4d.tqv.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_vfff2s1r.khj.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_vlh0tb3m.3kd.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_wjrkdzkx.zzn.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_wmg12twd.e1a.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_wnl5njgi.gcl.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_wuurxcjf.l2e.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_wwfozcjt.dnl.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_wy4sz32k.1me.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_x3uznz5d.34t.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_xdgxw0br.oth.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_xds5uece.1aa.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_xubrl30d.0d0.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_xwnhp5oj.xiz.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_yanpx1jt.qo3.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_yokua1c3.auk.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_yq4icwvy.svn.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_yqoqcyme.oxt.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_zhahkqcv.f3f.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_zk30qmjm.wbr.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_zmlhiiv1.tfr.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_zmsaiabz.thr.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_zt3tjcwy.aqk.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_zvfkhcbg.cgf.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_zylozpv3.zxf.ps1
+C:\Users\Administrator\AppData\Local\Temp\__PSScriptPolicyTest_zzyorhfn.cjm.ps1
+C:\Users\Administrator\AppData\Local\Temp\atomictest\calc.exe
+C:\Users\Administrator\AppData\Local\Temp\gknreyus\gknreyus.cmdline
+C:\Users\Administrator\AppData\Local\Temp\gknreyus\gknreyus.dll
+C:\Users\Administrator\AppData\Local\Temp\golden.bat
+C:\Users\Administrator\AppData\Local\Temp\h2mu0f5r\h2mu0f5r.cmdline
+C:\Users\Administrator\AppData\Local\Temp\h2mu0f5r\h2mu0f5r.dll
+C:\Users\Administrator\AppData\Local\Temp\silver.bat
+C:\Users\Administrator\AppData\Local\Temp\tmax5eu1\tmax5eu1.cmdline
+C:\Users\Administrator\AppData\Local\Temp\tmax5eu1\tmax5eu1.dll
+C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\T1547.009.lnk
+C:\Users\Default\AppData\Local\Temp\hello.log
+C:\Users\Public\AtomicTest.dll
+C:\Users\emps\AppData\Local\Microsoft\WindowsApps\Get-Variable.exe
+C:\Users\emps\AppData\Local\Temp\KeyScrambler.exe
+C:\Users\emps\AppData\Local\Temp\KeyScrambler_Setup.exe
+C:\Users\emps\AppData\Local\Temp\PhishingAttachment.xlsm
+C:\Users\emps\AppData\Local\Temp\PsExec.exe
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_0cogl1a4.ryb.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_0j2tgist.1ur.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_0qkzydqi.eo0.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_0wqbc2gq.hdx.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_1jwnu3gz.cqu.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_201ic44m.dcv.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_2sxfi53t.q1e.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_3ivswypv.akm.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_3nmb5rcf.kj2.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_3rzcsk1u.q1v.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_3wzxgoas.cyn.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_3zmzi5zk.due.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_4e3poswm.wkd.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_4tu4swqi.54u.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_4upbuuq2.zsi.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_5cmzfl5p.501.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_5nsyonxo.mwe.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_5oivdywk.cc2.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_5xkaab2q.vhc.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_5zpitick.4yd.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_aeg231zi.z0x.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_am5syf03.1re.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_anf53rqo.hky.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_aobyvedk.5lj.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_asaaqgvh.dd1.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_b3gssow4.ofh.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_bhc55cdc.kmy.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_br5v2mtm.gtf.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_dekys1k4.nke.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_dihgfh5u.wic.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_duwg33hp.jsj.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_e2gj3int.p31.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_e2ksz0nq.0zg.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_edsmwi4i.s1m.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_etjv1qa0.jza.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_evu45ofv.fy2.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_ewkti5yo.wur.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_f1ybcdu4.byc.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_fdzu4xmn.alt.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_fi3luym2.1hw.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_frq5egdk.lha.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_fvvfp1pp.4zb.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_gasrjfvg.y4f.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_gevbvvkg.4nh.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_grs2g1wx.4vd.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_guizsopr.tue.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_gwbknw5h.d32.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_h0jdx44x.lcx.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_hf5hgghc.emr.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_hlvol2yv.x2f.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_hs3g4ypn.lgj.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_hukyvvxz.zxw.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_hwfduqi0.ao5.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_hzs0i2lb.gjt.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_i3k0zqj3.dfw.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_i3upnkaw.fpq.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_i5fnqyxt.hrw.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_iehxyfwg.e2n.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_iirwewt2.zlt.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_ivp1tntx.jpj.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_ivu0ztm3.3dy.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_iwpgtr1k.rvw.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_izku0ic0.ctn.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_jcpnabdw.5ho.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_jpgxgzqj.kki.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_jvwhbjdp.uln.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_kanskcuv.mnp.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_kbhfyv2f.2v3.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_kbn0xtqd.plo.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_khx1qjuz.v3c.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_kqkabl2q.p2q.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_lbw4hasn.y2s.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_lg1umx53.ib0.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_lligmzun.tu0.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_lmphpuao.2kx.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_lw0wrpxy.er3.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_lx54hjyd.cgp.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_m2zvzlek.tdu.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_m3tietbi.ldc.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_m42rbvdi.0wk.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_mboll5ui.mkx.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_mguv1vdv.fs1.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_mhccwrp1.0yu.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_mqc3o0rd.5rp.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_mwagsqtd.yku.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_mzzx14hv.xdj.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_n02zkv2w.rwj.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_n3avbdcz.15d.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_nrgbqwib.3xt.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_nrj1ksb4.kwa.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_ns2ufsba.dp2.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_nsmd355g.4wu.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_ntjvzxq5.rsg.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_ogj31ymp.rh4.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_ohv3uihh.msf.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_okbjmor4.hwz.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_owok4qco.4f4.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_oxmdzljq.1fl.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_pfeopbv3.35y.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_pndvxdhy.yxk.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_pyv5f1nx.3wf.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_q13dpnok.ugc.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_qhnqq3et.gqg.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_qx1guexq.auy.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_qxebytmd.dh3.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_rm4oiyy0.wp0.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_rmlx1kfi.3f2.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_rqf3jjqw.1t4.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_rrxyzqqx.yh2.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_su2x1nmc.ird.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_taos4lb1.5ub.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_to3k1o1t.3j2.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_tquu2u1q.hwa.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_ucp0yl3j.zyt.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_uodsp22g.dnz.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_uw5vof0n.feh.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_v3jtkmi1.sgg.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_vlswnl42.gpl.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_vmupkwzj.vvt.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_wjcrurnt.pe3.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_wnmcbel4.wmm.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_x3gkrd0w.vf2.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_x5bhb4jz.ev5.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_xgho0e2i.h0v.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_xkyib4rd.rjb.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_xne4nt4r.muk.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_xups04s1.oy4.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_xxk0kigc.azc.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_y1s3gmkc.apj.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_yddguo4r.mzp.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_ypbsszjt.xep.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_ytraou4z.ctm.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_yutdbdsb.bmq.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_yzoz0fpy.qzf.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_zdrapouk.zep.ps1
+C:\Users\emps\AppData\Local\Temp\__PSScriptPolicyTest_zpmh01zj.3ge.ps1
+C:\Users\emps\AppData\Local\Temp\h143kx4f\h143kx4f.cmdline
+C:\Users\emps\AppData\Local\Temp\h143kx4f\h143kx4f.dll
+C:\Users\emps\AppData\Local\Temp\ihgpsuyl\ihgpsuyl.cmdline
+C:\Users\emps\AppData\Local\Temp\ihgpsuyl\ihgpsuyl.dll
+C:\Users\emps\AppData\Local\Temp\ldnsyyua\ldnsyyua.cmdline
+C:\Users\emps\AppData\Local\Temp\ldnsyyua\ldnsyyua.dll
+C:\Users\emps\AppData\Local\Temp\m0ow5by2\m0ow5by2.cmdline
+C:\Users\emps\AppData\Local\Temp\m0ow5by2\m0ow5by2.dll
+C:\Users\emps\AppData\Local\Temp\nsn66F3.tmp\System.dll
+C:\Users\emps\AppData\Local\Temp\nsn66F3.tmp\UserInfo.dll
+C:\Users\emps\AppData\Local\Temp\nsn66F3.tmp\md5dll.dll
+C:\Users\emps\AppData\Local\Temp\nsn66F3.tmp\nsExec.dll
+C:\Users\emps\AppData\Local\Temp\zsh4ajsc\zsh4ajsc.cmdline
+C:\Users\emps\AppData\Local\Temp\zsh4ajsc\zsh4ajsc.dll
+C:\Users\emps\AppData\Roaming\amsi.dll
+C:\Users\emps\AppData\Roaming\updater.exe
+C:\Users\emps\AtomicTest.exe
+C:\Users\emps\Desktop\AppDataCopy\Local\Microsoft\Edge\User Data\Domain Actions\3.0.0.16\domain_actions.dll
+C:\Users\emps\Desktop\AppDataCopy\Local\Microsoft\Edge\User Data\Speech Recognition\1.15.0.1\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\emps\Desktop\AppDataCopy\Local\Microsoft\Edge\User Data\Well Known Domains\1.2.0.0\well_known_domains.dll
+C:\Users\emps\Desktop\AppDataCopy\Local\Microsoft\WindowsApps\Get-Variable.exe
+C:\Users\emps\Desktop\AppDataCopy\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalCache\Roaming\Microsoft\Windows\Start Menu
+C:\Users\emps\Desktop\AppDataCopy\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalCache\Roaming\Microsoft\Windows\Start Menu\Programs
+C:\Users\emps\Desktop\AppDataCopy\Local\Temp\Invoke-Phant0m.ps1
+C:\Users\emps\Desktop\AppDataCopy\Local\Temp\KeyScrambler.exe
+C:\Users\emps\Desktop\AppDataCopy\Local\Temp\KeyScrambler_Setup.exe
+C:\Users\emps\Desktop\AppDataCopy\Local\Temp\PhishingAttachment.xlsm
+C:\Users\emps\Desktop\AppDataCopy\Local\Temp\PsExec.exe
+C:\Users\emps\Desktop\AppDataCopy\Local\Temp\__PSScriptPolicyTest_byita0am.jai.ps1
+C:\Users\emps\Desktop\AppDataCopy\Local\Temp\storePwd.exe
+C:\Users\emps\Desktop\AppDataCopy\Local\Temp\unattend.cmd
+C:\Users\emps\Desktop\AppDataCopy\Local\Temp\upgrader.exe
+C:\Users\emps\Desktop\AppDataCopy\Local\VirtualStore
+C:\Users\test\AppData\Local\Microsoft\WindowsApps\Microsoft.OutlookForWindows_8wekyb3d8bbwe\olk.exe
+C:\Users\test\AppData\Local\Microsoft\WindowsApps\olk.exe
+C:\Users\test\AppData\Local\Temp\15znx5on\15znx5on.cmdline
+C:\Users\test\AppData\Local\Temp\15znx5on\15znx5on.dll
+C:\Users\test\AppData\Local\Temp\4jaqwtp0\4jaqwtp0.cmdline
+C:\Users\test\AppData\Local\Temp\4jaqwtp0\4jaqwtp0.dll
+C:\Users\test\AppData\Local\Temp\IXP000.TMP\T1036_~1.BAT
+C:\Users\test\AppData\Local\Temp\T1010.exe
+C:\Users\test\AppData\Local\Temp\T1036.007_masquerading.doc.ps1
+C:\Users\test\AppData\Local\Temp\T1036.007_masquerading.docx.exe
+C:\Users\test\AppData\Local\Temp\T1036.007_masquerading.pdf.exe
+C:\Users\test\AppData\Local\Temp\T1036.007_masquerading.pdf.ps1
+C:\Users\test\AppData\Local\Temp\T1036.007_masquerading.png.vbs
+C:\Users\test\AppData\Local\Temp\T1036.007_masquerading.ps1.exe
+C:\Users\test\AppData\Local\Temp\T1036.007_masquerading.rtf.ps1
+C:\Users\test\AppData\Local\Temp\T1036.007_masquerading.xls.vbs
+C:\Users\test\AppData\Local\Temp\T1036.007_masquerading.xlsx.vbs
+C:\Users\test\AppData\Local\Temp\VEDetector.exe
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_0cpqk3tf.5yj.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_0dktg1qu.a41.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_0fymhtob.clu.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_0jl2isr0.24q.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_0mhvkflu.m4d.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_0t1ca0sw.bkc.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_0zm3xwkz.aw2.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_15vphnrf.zld.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_1fqqxz33.hmp.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_1l1v0rrn.pfq.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_1tlgtrxo.kub.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_1wpyi0pp.uxa.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_2bkyhl3j.vnj.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_2l0xnpoj.ycd.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_2qe4og1y.0fw.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_2sdhluil.ggn.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_2uazhmhf.lxc.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_3elk0yv2.vlb.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_3kisx3qd.uez.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_3ob5j05d.nch.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_3pn1wcc2.ncc.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_3prpfjpk.rno.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_3xbegqm4.nar.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_42y2r1ac.deq.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_4kshseae.fzh.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_4r2ih2xl.ppu.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_4wit5ya5.nhn.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_54nhi0cr.vn3.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_5g0m0sgx.fji.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_5gixp3wx.dll.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_5pttcqat.rpg.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_5xsldzzr.1i3.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_aohmfhxa.uxh.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_aqwwf0gy.awv.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_asofxlco.wkh.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_awwlpjrb.uw2.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_b2ekm0wj.hdx.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_bf1lvng2.yli.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_bfbdqebk.sjz.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_bgkzhox1.idj.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_bgn2pkg0.vc3.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_bh0yfaib.rb0.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_bhgyin4y.ua0.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_bj5m35va.b2v.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_bnjlmpnv.fxk.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_bqudykkn.m3e.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_btwnctee.y1v.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_c4oafdsd.otz.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_c5jlopjs.hmz.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_c5uwutdx.4es.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_cad4mksy.o5v.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_cdrlg4u2.dwy.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_ckkxjc3u.3ji.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_cns03glh.jqt.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_cp2oud2s.5mt.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_cr5fcch0.2xs.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_cur14xg3.amn.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_d42wt3hb.jvj.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_dalg3u0t.ilz.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_dka3g2o1.lfj.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_dqcy4dpb.kax.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_eabueyd1.1rd.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_eb2ce4zm.kuj.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_edngb5fm.ed1.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_eykyuosq.02w.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_fh0hx3mz.0d0.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_fjp3ldtn.0h5.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_fwxz4tuo.z2f.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_g2kme1zd.4d1.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_gc3noxpr.jcz.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_gcf3dysm.liy.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_gcne0dvp.5vp.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_gcqw0tgw.otu.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_ghhhkm3q.q1o.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_gjgeknix.uv1.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_gpl444jc.dr1.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_gtw1ds2x.asr.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_gwwm2egh.auc.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_gy12mg1v.0hq.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_ha2dohpi.ihp.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_haj2hlus.rnv.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_hbphbdqd.jjv.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_hgn4pexs.c0c.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_hljsknew.luo.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_honlewzy.1ub.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_hw3wtffd.ynj.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_iadk5pn0.jgb.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_iisnfmpz.jp5.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_iqf1wxuy.dxk.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_iuipaafl.1ou.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_iuowynmj.dmi.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_j110m1td.11h.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_japtfu2z.y2p.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_jg0uzs5u.edr.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_jm1ycl1w.jxf.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_jt0swwc1.o2e.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_ka1srhsb.4do.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_klbhd2bt.jip.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_kvesnsw4.1pj.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_l1ojnmn3.1gz.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_lbabfdza.kmw.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_luczuxr4.zgt.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_lwohltrl.aqp.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_lz0jzadi.njd.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_m3ycliy4.by3.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_mgishrjv.ava.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_mnaxzcif.o1a.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_mvvxw5j2.hom.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_n03bbvx3.idq.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_n5cnfhk4.fjd.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_ngwoeslo.oc5.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_njipj0ys.e1t.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_nruqt43w.iam.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_nx0yy1u3.kxv.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_nytbtom4.nbx.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_o5sy00xo.d5k.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_obb1lkkg.ryh.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_odbo3dsg.xuh.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_ohpup4lf.qxj.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_ojh50hkk.lgo.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_okpig30r.qjv.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_omw0i4kj.m3h.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_oqkufu10.j4e.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_or3idshd.hqn.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_orc5lsdw.lvt.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_oscgdmp3.yzk.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_ou10lja2.kk3.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_p1dg3itk.mt1.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_pemo2dne.gxi.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_phfznua2.g5t.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_pitp3dvm.1wz.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_pmu2mvhv.y0d.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_qdks3ffu.xud.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_qgg01xzv.qd1.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_qqagklxr.zw2.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_qr0ofxjf.uha.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_qu1vmgm2.hsz.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_qvpdofgj.msw.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_r24nwqq1.hpo.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_r34gemcf.v2l.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_r5qdb2c5.0oh.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_rbagks1t.dly.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_riaskgrc.2wf.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_rkng1hce.yuh.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_rniixfke.lp4.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_ro0qftvd.rgn.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_rogbl45y.e05.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_ros0otn0.4jl.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_rsmq4ki0.lwl.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_rvndapfg.0r1.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_saroydx1.owg.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_sjfyddy2.t33.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_srt5xxph.51r.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_ssdlsjm2.xta.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_svxir0ht.ode.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_sx3okvyb.nbg.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_szuhfq0w.4bg.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_t0dxlv4k.4bz.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_t5vrcvhp.55i.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_tciskchm.bd4.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_teuq20za.dwv.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_tla1bqot.3us.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_toxgjmco.3jo.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_txb44b5q.2dv.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_u1izfnbs.e32.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_ugudvesl.qad.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_unbcdgco.5n0.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_uwxwb13f.yls.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_uxbv2aht.st0.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_uygilc50.n34.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_uze2qceu.jgc.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_vc2zbfrl.gi5.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_vg5suhev.zl2.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_vhczbx0p.qbm.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_vixkqj4r.vow.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_vpwc3pgm.hsw.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_vuyqkbbm.e31.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_vvz3yy1i.zwq.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_wbylgm41.zuf.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_wfx1umlz.tpw.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_wg45lqr3.sn5.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_wj1oqfev.mse.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_woqkfdfa.3c2.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_wvchxise.cit.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_wy04l03v.h0x.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_x3bvii5k.3vr.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_x4455wb5.5za.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_xcs4vsg5.v4v.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_xmkeemyx.sad.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_y0zks2nd.ex2.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_y1tmvjfa.eo1.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_y3rdrn0x.jfx.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_y42dhrbi.2la.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_ybl4ebg2.u03.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_yes5jfxe.avv.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_ymve25dk.gtl.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_ypv1gdv0.cdz.ps1
+C:\Users\test\AppData\Local\Temp\__PSScriptPolicyTest_zoxwujgs.xlg.ps1
+C:\Users\test\AppData\Local\Temp\aqxhz22f\aqxhz22f.cmdline
+C:\Users\test\AppData\Local\Temp\aqxhz22f\aqxhz22f.dll
+C:\Users\test\AppData\Local\Temp\art.bat
+C:\Users\test\AppData\Local\Temp\dotnet-lsass.dmp
+C:\Users\test\AppData\Local\Temp\eup1eb1s\eup1eb1s.cmdline
+C:\Users\test\AppData\Local\Temp\g64-38e.exe
+C:\Users\test\AppData\Local\Temp\ifig3umw\ifig3umw.cmdline
+C:\Users\test\AppData\Local\Temp\ifig3umw\ifig3umw.dll
+C:\Users\test\AppData\Local\Temp\itmulx1t\itmulx1t.cmdline
+C:\Users\test\AppData\Local\Temp\itmulx1t\itmulx1t.dll
+C:\Users\test\AppData\Local\Temp\j41ve9gj.cmdline
+C:\Users\test\AppData\Local\Temp\j41ve9gj.dll
+C:\Users\test\AppData\Local\Temp\khufrf3k\khufrf3k.cmdline
+C:\Users\test\AppData\Local\Temp\khufrf3k\khufrf3k.dll
+C:\Users\test\AppData\Local\Temp\lsass_688.dmp
+C:\Users\test\AppData\Local\Temp\nanodump.dmp
+C:\Users\test\AppData\Local\Temp\svchost.exe
+C:\Users\test\AppData\Roaming\notepad.exe
+C:\Users\test\AppData\Roaming\svchost.exe
+C:\Users\test\result.ps1
+C:\Users\windows\AppData\Local\Chromium\User Data\478b34ca-d0d7-4f2d-90f8-c00ad9459ece.tmp
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\8bafcb07-a059-40c3-925a-8a4c2ff99282.tmp
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\AutofillStrikeDatabase\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\BudgetDatabase\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\Code Cache\webui_js\index-dir\temp-index
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\Download Service\EntryDB\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\Extension State\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\Feature Engagement Tracker\AvailabilityDB\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\Feature Engagement Tracker\EventDB\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\GCM Store\Encryption\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\Local Storage\leveldb\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\Network\18af7959-e1d8-4d41-be20-61e3a835256b.tmp
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\Network\2881880c-8b4d-4d24-869e-ce918043cc61.tmp
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\PersistentOriginTrials\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\Segmentation Platform\SegmentInfoDB\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\Segmentation Platform\SignalDB\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\Segmentation Platform\SignalStorageConfigDB\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\Session Storage\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\Site Characteristics Database\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\Sync Data\LevelDB\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\c0ed19aa-5c3b-4e5b-9fe5-c8f547d05cbd.tmp
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\commerce_subscription_db\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\coupon_db\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\optimization_guide_hint_cache_store\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\shared_proto_db\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\Default\shared_proto_db\metadata\LOG
+C:\Users\windows\AppData\Local\Chromium\User Data\a6cc8ef8-d421-45c8-bda9-b1e93edb6dac.tmp
+C:\Users\windows\AppData\Local\Temp\03122e2s\03122e2s.cmdline
+C:\Users\windows\AppData\Local\Temp\03122e2s\03122e2s.dll
+C:\Users\windows\AppData\Local\Temp\03js53wq\03js53wq.cmdline
+C:\Users\windows\AppData\Local\Temp\03js53wq\03js53wq.dll
+C:\Users\windows\AppData\Local\Temp\0ac2ql0p\0ac2ql0p.cmdline
+C:\Users\windows\AppData\Local\Temp\0ac2ql0p\0ac2ql0p.dll
+C:\Users\windows\AppData\Local\Temp\0g0xwk1x\0g0xwk1x.cmdline
+C:\Users\windows\AppData\Local\Temp\0g0xwk1x\0g0xwk1x.dll
+C:\Users\windows\AppData\Local\Temp\0i4nx3h1\0i4nx3h1.cmdline
+C:\Users\windows\AppData\Local\Temp\0i4nx3h1\0i4nx3h1.dll
+C:\Users\windows\AppData\Local\Temp\0ibonte2\0ibonte2.cmdline
+C:\Users\windows\AppData\Local\Temp\0od4bryp\0od4bryp.cmdline
+C:\Users\windows\AppData\Local\Temp\0od4bryp\0od4bryp.dll
+C:\Users\windows\AppData\Local\Temp\0rcl2ypr\0rcl2ypr.cmdline
+C:\Users\windows\AppData\Local\Temp\0rcl2ypr\0rcl2ypr.dll
+C:\Users\windows\AppData\Local\Temp\1h3yvgft\1h3yvgft.cmdline
+C:\Users\windows\AppData\Local\Temp\1h3yvgft\1h3yvgft.dll
+C:\Users\windows\AppData\Local\Temp\1jwj2u4m\1jwj2u4m.cmdline
+C:\Users\windows\AppData\Local\Temp\1jwj2u4m\1jwj2u4m.dll
+C:\Users\windows\AppData\Local\Temp\1ntiwziq\1ntiwziq.cmdline
+C:\Users\windows\AppData\Local\Temp\1ntiwziq\1ntiwziq.dll
+C:\Users\windows\AppData\Local\Temp\1q5dyjpr\1q5dyjpr.cmdline
+C:\Users\windows\AppData\Local\Temp\1q5dyjpr\1q5dyjpr.dll
+C:\Users\windows\AppData\Local\Temp\1tl1qqdz\1tl1qqdz.cmdline
+C:\Users\windows\AppData\Local\Temp\1tl1qqdz\1tl1qqdz.dll
+C:\Users\windows\AppData\Local\Temp\1wmjoxdh\1wmjoxdh.cmdline
+C:\Users\windows\AppData\Local\Temp\1wmjoxdh\1wmjoxdh.dll
+C:\Users\windows\AppData\Local\Temp\24yydjne\24yydjne.cmdline
+C:\Users\windows\AppData\Local\Temp\24yydjne\24yydjne.dll
+C:\Users\windows\AppData\Local\Temp\2hn1dyqv\2hn1dyqv.cmdline
+C:\Users\windows\AppData\Local\Temp\2hn1dyqv\2hn1dyqv.dll
+C:\Users\windows\AppData\Local\Temp\2kwywwli\2kwywwli.cmdline
+C:\Users\windows\AppData\Local\Temp\2kwywwli\2kwywwli.dll
+C:\Users\windows\AppData\Local\Temp\2n33yq2x\2n33yq2x.cmdline
+C:\Users\windows\AppData\Local\Temp\2n33yq2x\2n33yq2x.dll
+C:\Users\windows\AppData\Local\Temp\2nkafova\2nkafova.cmdline
+C:\Users\windows\AppData\Local\Temp\2nkafova\2nkafova.dll
+C:\Users\windows\AppData\Local\Temp\34ycgnlu\34ycgnlu.cmdline
+C:\Users\windows\AppData\Local\Temp\34ycgnlu\34ycgnlu.dll
+C:\Users\windows\AppData\Local\Temp\3chfhwjj\3chfhwjj.cmdline
+C:\Users\windows\AppData\Local\Temp\3chfhwjj\3chfhwjj.dll
+C:\Users\windows\AppData\Local\Temp\3dpurzju\3dpurzju.cmdline
+C:\Users\windows\AppData\Local\Temp\3dpurzju\3dpurzju.dll
+C:\Users\windows\AppData\Local\Temp\3tl1ajoz\3tl1ajoz.cmdline
+C:\Users\windows\AppData\Local\Temp\3tl1ajoz\3tl1ajoz.dll
+C:\Users\windows\AppData\Local\Temp\3vvge4q1\3vvge4q1.cmdline
+C:\Users\windows\AppData\Local\Temp\3vvge4q1\3vvge4q1.dll
+C:\Users\windows\AppData\Local\Temp\3ymbahxu\3ymbahxu.cmdline
+C:\Users\windows\AppData\Local\Temp\3ymbahxu\3ymbahxu.dll
+C:\Users\windows\AppData\Local\Temp\42uhnwsk\42uhnwsk.cmdline
+C:\Users\windows\AppData\Local\Temp\42uhnwsk\42uhnwsk.dll
+C:\Users\windows\AppData\Local\Temp\4nzkw4v0\4nzkw4v0.cmdline
+C:\Users\windows\AppData\Local\Temp\4nzkw4v0\4nzkw4v0.dll
+C:\Users\windows\AppData\Local\Temp\4vmnobmy\4vmnobmy.cmdline
+C:\Users\windows\AppData\Local\Temp\4vmnobmy\4vmnobmy.dll
+C:\Users\windows\AppData\Local\Temp\4z2szsvo\4z2szsvo.cmdline
+C:\Users\windows\AppData\Local\Temp\4z2szsvo\4z2szsvo.dll
+C:\Users\windows\AppData\Local\Temp\52g0coxo\52g0coxo.cmdline
+C:\Users\windows\AppData\Local\Temp\52g0coxo\52g0coxo.dll
+C:\Users\windows\AppData\Local\Temp\53rwhcdc\53rwhcdc.cmdline
+C:\Users\windows\AppData\Local\Temp\53rwhcdc\53rwhcdc.dll
+C:\Users\windows\AppData\Local\Temp\5j0vgczj\5j0vgczj.cmdline
+C:\Users\windows\AppData\Local\Temp\5j0vgczj\5j0vgczj.dll
+C:\Users\windows\AppData\Local\Temp\5uprszw4\5uprszw4.cmdline
+C:\Users\windows\AppData\Local\Temp\5uprszw4\5uprszw4.dll
+C:\Users\windows\AppData\Local\Temp\T1218.004.dll
+C:\Users\windows\AppData\Local\Temp\T1218.009.dll
+C:\Users\windows\AppData\Local\Temp\Test.chm
+C:\Users\windows\AppData\Local\Temp\Test.hta
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_03maray4.mrh.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_0cqntvib.gsy.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_0dyjhz3k.ese.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_0fablgbs.kir.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_0hjuz42o.rhh.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_0k0komrs.bkj.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_0s1dayc3.evu.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_0yw1srs2.t2k.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_1c4yd1gz.n1r.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_1chm2doo.yfn.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_1gbhfw4u.njn.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_1jhsgxq5.oog.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_1n2nlkrz.ecp.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_1o4rf4mt.uif.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_1rcsmdqj.41v.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_1wspurec.z21.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_1y045ydr.cik.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_23gtljpi.ecc.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_25z2srud.3tj.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_2abop5r2.ke5.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_2c425yve.eaa.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_2kvq3voc.n32.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_2lpkbl2y.4qn.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_2uyzf5g4.wdt.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_2v0u0dui.4t2.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_30gqsxz0.4ko.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_35cpkdpi.xar.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_3ay2nji4.adg.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_3dl2ctf2.t3n.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_3jd3ywaf.qon.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_3nvd2td0.isr.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_3pinvujv.peg.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_3psgoaax.x1w.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_3si4k43q.hs2.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_3swkii15.aot.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_3xbjhybf.2v3.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_4cvdbuhz.bub.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_4gbclt2j.ski.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_4qwu5vfu.jbf.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_4vlindiy.coz.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_4wfs0u2o.nhs.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_4wn2zjgc.4kh.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_5gx4vpnu.fsw.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_5mgr5oae.w5n.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_5pjattdu.qoa.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_5q5rmi2t.muq.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_5rtftgry.apc.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_5wbyzfqp.utz.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_5x2smh2h.aks.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_5xuww1t5.31j.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_a1bubpid.cbd.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_a5rgg1wj.t5a.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ahleigc3.rxz.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_aim3vlx2.rsc.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_al0yr5qm.rxn.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_awsmeoiw.rql.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_aymnsmf2.0vs.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_bwmleoer.gpu.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_bymgtozo.wpv.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_c2gwwtse.1aq.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_c3wybve3.ut5.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_coh0gf4m.e4r.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_cpgfvjh5.g00.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_cpmrubho.czr.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ctpkz1dv.xsy.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_cxfrzsor.nhv.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_d00ibepm.140.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_dg5aagrw.3hx.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_dkids1fy.1dz.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_dv1uhpsk.nwr.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_dywyzfpv.krg.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ecozbaa5.vt5.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_eh05dow0.n24.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ejwwfqcv.1fl.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ekxngqf0.zhd.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ere4wqow.pwz.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_evgu42si.35j.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_evle1hvf.q1k.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_f4gk2zde.yer.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_fa53rbjx.h5v.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_feylepel.fzw.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_fezjre42.fkm.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_fggj1quo.x5p.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_fkace4cd.xmi.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ft5mfgxs.4kc.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_fuc0pnbh.bki.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_fw4zheri.fjz.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_gc2kgocu.4en.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_gckxqvjj.xzw.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_h5q2ym4j.0wu.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_hijin540.gij.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_hqi0l3j5.tvo.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_hrvu4bbd.4yj.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_htop0djq.0ht.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_i0yjucjd.h2z.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_i141u2go.p3x.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_i3xznqg0.owz.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_iitxj1km.j3w.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ijm0ot0m.ph2.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_imjuj3be.ttz.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ivfejsg2.hml.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_j0el4ucr.len.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_j5gthcbv.v20.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_jqclyznt.fuf.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_jtuqn4o5.yw1.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_kfxcysr5.qw0.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_kjlqwicw.laz.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_kkfcsezj.5ge.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_kopp5eot.mlq.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_kwcc0zt4.1u3.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_lgzdqdob.b2s.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_lpyixt0u.n5s.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_lvvucr52.cwy.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_lzcr5osh.ury.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_mgtk4be5.a3c.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_mhtsd5vg.feb.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_mic4wzcg.q2b.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_mjigi5et.s0v.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_mk3phwnh.pfw.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_mkmav1ml.ufs.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_mukil3xp.k0z.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_muosxo1h.5k5.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_myf5beep.dda.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_mytyktkm.lln.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_n1jmlgtt.wey.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ncsn34mg.z0b.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_neg4ubo5.qpo.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ngaff4yw.ce3.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_nh244b2v.li4.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_nkm4o4vc.lnc.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ny4jn54o.d4a.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_o3elmrzg.kmy.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_o5msob0e.21a.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ob2zjhrg.3wv.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ofgcjvfk.sac.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_oqihqva0.c4k.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_oy2ckjei.ook.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_phyvnyks.3pd.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_phzmqdd0.1es.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_pis4ayzc.thi.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_pkh4drxb.od0.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_pnm5ruba.mdx.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_pvf3lsio.3fh.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_pvm0vwpr.biw.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_py5e1uaj.0id.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_pzk5svwh.ld1.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_q0q2kfql.vbl.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_q3cu2dbw.1en.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_qsljprww.5yo.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_qyd2yfpx.krr.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_r14dc0ji.r2j.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_r3oori5f.dvy.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_r5sko2lm.trj.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_rdzokb5t.avd.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_roo3f0e4.dhd.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_rpwamtdp.olb.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_rtiui24m.l4c.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_seigu5sx.1vi.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_smgcc4fl.w3u.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_smznf025.yuu.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_svives0d.gz3.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_swoaltpl.vdb.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_t1bud2ep.xg4.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_t1x5esbd.rem.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_t5a2die1.qf0.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_thzgqo5s.tve.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_tl3l2tb1.yru.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_tmxynrzq.3vq.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_tuj1fzxl.cey.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_tuozode0.ajk.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_tuwajfjc.c4p.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_u25uugrh.igu.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_u5ajvyrz.x1c.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ujmeamgo.b51.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_unjuhmoj.4u4.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_uscod01h.c1m.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_v0fcey3j.2dx.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_v0r0cvcf.dtp.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_v13tbp3x.wwu.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_vbk1iuge.mix.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_vdq1zr5h.jwb.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_vf24wgfp.t3v.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_vfrdutz5.0ai.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_vgmuriyj.0jp.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_vi35xyqd.yux.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_vnorad3m.lnf.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_vqpy1zmw.0cl.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_vsyk0ic2.upe.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_vvjjc4rx.rgn.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_vxeystk3.oqg.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_vyp3msmp.qld.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_w43giz54.4m5.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_w4bclxkt.ri3.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_wlkezzwi.n03.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_wmjoveuy.e1k.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_work2c1s.arw.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_wu1ayszo.jqj.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_wuxt15i2.by3.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_xedglhsm.yhm.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_xkayt1dw.pcj.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_xnnjlfad.3ha.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_xoordjwh.ouw.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_xrfq15mv.sxg.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_xzvmhfbl.bf1.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_yaby5wsq.4la.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ydevqvsd.vgn.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_yi11kwc2.pi1.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ypacdjr2.0di.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_yqsjvcay.tlj.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_yqxkqe44.0in.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ysjchfsr.kag.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ytcvy22f.elj.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_z1hvuvmh.vr0.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_za3uqidl.4oj.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_zc4t0kvp.mcc.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_zd3ft2o4.gqg.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_zemmevit.snh.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_zlg4gxsa.f2o.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_zre0y0kx.ks4.ps1
+C:\Users\windows\AppData\Local\Temp\__PSScriptPolicyTest_ztag5mc5.mq4.ps1
+C:\Users\windows\AppData\Local\Temp\a.exe
+C:\Users\windows\AppData\Local\Temp\acxkgih4\acxkgih4.cmdline
+C:\Users\windows\AppData\Local\Temp\acxkgih4\acxkgih4.dll
+C:\Users\windows\AppData\Local\Temp\aeqmej5s\aeqmej5s.cmdline
+C:\Users\windows\AppData\Local\Temp\aeqmej5s\aeqmej5s.dll
+C:\Users\windows\AppData\Local\Temp\ag5f32vb\ag5f32vb.cmdline
+C:\Users\windows\AppData\Local\Temp\ag5f32vb\ag5f32vb.dll
+C:\Users\windows\AppData\Local\Temp\alpea3pf\alpea3pf.cmdline
+C:\Users\windows\AppData\Local\Temp\am4r4nuw\am4r4nuw.cmdline
+C:\Users\windows\AppData\Local\Temp\am4r4nuw\am4r4nuw.dll
+C:\Users\windows\AppData\Local\Temp\aqvwkgm2\aqvwkgm2.cmdline
+C:\Users\windows\AppData\Local\Temp\aqvwkgm2\aqvwkgm2.dll
+C:\Users\windows\AppData\Local\Temp\aw0gk3mo\aw0gk3mo.cmdline
+C:\Users\windows\AppData\Local\Temp\aw0gk3mo\aw0gk3mo.dll
+C:\Users\windows\AppData\Local\Temp\b2gsuobm\b2gsuobm.cmdline
+C:\Users\windows\AppData\Local\Temp\b2gsuobm\b2gsuobm.dll
+C:\Users\windows\AppData\Local\Temp\bx1ttyui\bx1ttyui.cmdline
+C:\Users\windows\AppData\Local\Temp\bx1ttyui\bx1ttyui.dll
+C:\Users\windows\AppData\Local\Temp\c0lrf1rt\c0lrf1rt.cmdline
+C:\Users\windows\AppData\Local\Temp\c0lrf1rt\c0lrf1rt.dll
+C:\Users\windows\AppData\Local\Temp\c1dwhvnx\c1dwhvnx.cmdline
+C:\Users\windows\AppData\Local\Temp\c1dwhvnx\c1dwhvnx.dll
+C:\Users\windows\AppData\Local\Temp\chrome-win\D3DCompiler_47.dll
+C:\Users\windows\AppData\Local\Temp\chrome-win\chrome.dll
+C:\Users\windows\AppData\Local\Temp\chrome-win\chrome.exe
+C:\Users\windows\AppData\Local\Temp\chrome-win\chrome_elf.dll
+C:\Users\windows\AppData\Local\Temp\chrome-win\chrome_proxy.exe
+C:\Users\windows\AppData\Local\Temp\chrome-win\chrome_pwa_launcher.exe
+C:\Users\windows\AppData\Local\Temp\chrome-win\chrome_wer.dll
+C:\Users\windows\AppData\Local\Temp\chrome-win\elevation_service.exe
+C:\Users\windows\AppData\Local\Temp\chrome-win\eventlog_provider.dll
+C:\Users\windows\AppData\Local\Temp\chrome-win\interactive_ui_tests.exe
+C:\Users\windows\AppData\Local\Temp\chrome-win\libEGL.dll
+C:\Users\windows\AppData\Local\Temp\chrome-win\libGLESv2.dll
+C:\Users\windows\AppData\Local\Temp\chrome-win\mojo_core.dll
+C:\Users\windows\AppData\Local\Temp\chrome-win\notification_helper.exe
+C:\Users\windows\AppData\Local\Temp\chrome-win\vk_swiftshader.dll
+C:\Users\windows\AppData\Local\Temp\chrome-win\vulkan-1.dll
+C:\Users\windows\AppData\Local\Temp\d5bj4dfr\d5bj4dfr.cmdline
+C:\Users\windows\AppData\Local\Temp\d5bj4dfr\d5bj4dfr.dll
+C:\Users\windows\AppData\Local\Temp\desytjwv\desytjwv.cmdline
+C:\Users\windows\AppData\Local\Temp\desytjwv\desytjwv.dll
+C:\Users\windows\AppData\Local\Temp\dtuxirfo\dtuxirfo.cmdline
+C:\Users\windows\AppData\Local\Temp\dtuxirfo\dtuxirfo.dll
+C:\Users\windows\AppData\Local\Temp\duu41dwk\duu41dwk.cmdline
+C:\Users\windows\AppData\Local\Temp\duu41dwk\duu41dwk.dll
+C:\Users\windows\AppData\Local\Temp\dxeskbss\dxeskbss.cmdline
+C:\Users\windows\AppData\Local\Temp\dxeskbss\dxeskbss.dll
+C:\Users\windows\AppData\Local\Temp\e3tiatxh\e3tiatxh.cmdline
+C:\Users\windows\AppData\Local\Temp\e3tiatxh\e3tiatxh.dll
+C:\Users\windows\AppData\Local\Temp\ea31zy5d\ea31zy5d.cmdline
+C:\Users\windows\AppData\Local\Temp\ea31zy5d\ea31zy5d.dll
+C:\Users\windows\AppData\Local\Temp\efnxmx3l\efnxmx3l.cmdline
+C:\Users\windows\AppData\Local\Temp\efnxmx3l\efnxmx3l.dll
+C:\Users\windows\AppData\Local\Temp\etsznjit\etsznjit.cmdline
+C:\Users\windows\AppData\Local\Temp\etsznjit\etsznjit.dll
+C:\Users\windows\AppData\Local\Temp\eub0o45m\eub0o45m.cmdline
+C:\Users\windows\AppData\Local\Temp\eub0o45m\eub0o45m.dll
+C:\Users\windows\AppData\Local\Temp\f3t3rmmi\f3t3rmmi.cmdline
+C:\Users\windows\AppData\Local\Temp\f3t3rmmi\f3t3rmmi.dll
+C:\Users\windows\AppData\Local\Temp\fhv4jd1o\fhv4jd1o.cmdline
+C:\Users\windows\AppData\Local\Temp\fhv4jd1o\fhv4jd1o.dll
+C:\Users\windows\AppData\Local\Temp\fja2je5y\fja2je5y.cmdline
+C:\Users\windows\AppData\Local\Temp\fja2je5y\fja2je5y.dll
+C:\Users\windows\AppData\Local\Temp\fxpi5qxh\fxpi5qxh.cmdline
+C:\Users\windows\AppData\Local\Temp\fxpi5qxh\fxpi5qxh.dll
+C:\Users\windows\AppData\Local\Temp\g2a3mhwh\g2a3mhwh.cmdline
+C:\Users\windows\AppData\Local\Temp\g2a3mhwh\g2a3mhwh.dll
+C:\Users\windows\AppData\Local\Temp\g4w5ngs4\g4w5ngs4.cmdline
+C:\Users\windows\AppData\Local\Temp\g4w5ngs4\g4w5ngs4.dll
+C:\Users\windows\AppData\Local\Temp\gbns0oes\gbns0oes.cmdline
+C:\Users\windows\AppData\Local\Temp\gbns0oes\gbns0oes.dll
+C:\Users\windows\AppData\Local\Temp\gevlrtim\gevlrtim.cmdline
+C:\Users\windows\AppData\Local\Temp\gevlrtim\gevlrtim.dll
+C:\Users\windows\AppData\Local\Temp\gfjq3dlq\gfjq3dlq.cmdline
+C:\Users\windows\AppData\Local\Temp\gfjq3dlq\gfjq3dlq.dll
+C:\Users\windows\AppData\Local\Temp\ght0yvlm\ght0yvlm.cmdline
+C:\Users\windows\AppData\Local\Temp\ght0yvlm\ght0yvlm.dll
+C:\Users\windows\AppData\Local\Temp\gln10h5w\gln10h5w.cmdline
+C:\Users\windows\AppData\Local\Temp\gln10h5w\gln10h5w.dll
+C:\Users\windows\AppData\Local\Temp\guu0lzfj\guu0lzfj.cmdline
+C:\Users\windows\AppData\Local\Temp\guu0lzfj\guu0lzfj.dll
+C:\Users\windows\AppData\Local\Temp\gv1wu0lt\gv1wu0lt.cmdline
+C:\Users\windows\AppData\Local\Temp\gv1wu0lt\gv1wu0lt.dll
+C:\Users\windows\AppData\Local\Temp\h2nwxdjk\h2nwxdjk.cmdline
+C:\Users\windows\AppData\Local\Temp\h2nwxdjk\h2nwxdjk.dll
+C:\Users\windows\AppData\Local\Temp\hd2jqikr\hd2jqikr.cmdline
+C:\Users\windows\AppData\Local\Temp\hd2jqikr\hd2jqikr.dll
+C:\Users\windows\AppData\Local\Temp\heejmhdg\heejmhdg.cmdline
+C:\Users\windows\AppData\Local\Temp\heejmhdg\heejmhdg.dll
+C:\Users\windows\AppData\Local\Temp\hjnm5wfw\hjnm5wfw.cmdline
+C:\Users\windows\AppData\Local\Temp\hjnm5wfw\hjnm5wfw.dll
+C:\Users\windows\AppData\Local\Temp\hknnxvqx\hknnxvqx.cmdline
+C:\Users\windows\AppData\Local\Temp\hknnxvqx\hknnxvqx.dll
+C:\Users\windows\AppData\Local\Temp\hpvsi4ry\hpvsi4ry.cmdline
+C:\Users\windows\AppData\Local\Temp\hpvsi4ry\hpvsi4ry.dll
+C:\Users\windows\AppData\Local\Temp\hw5p5o3p\hw5p5o3p.cmdline
+C:\Users\windows\AppData\Local\Temp\hw5p5o3p\hw5p5o3p.dll
+C:\Users\windows\AppData\Local\Temp\hxs1xi3q\hxs1xi3q.cmdline
+C:\Users\windows\AppData\Local\Temp\hxs1xi3q\hxs1xi3q.dll
+C:\Users\windows\AppData\Local\Temp\hy4ivne3\hy4ivne3.cmdline
+C:\Users\windows\AppData\Local\Temp\hy4ivne3\hy4ivne3.dll
+C:\Users\windows\AppData\Local\Temp\hycabtxd\hycabtxd.cmdline
+C:\Users\windows\AppData\Local\Temp\hycabtxd\hycabtxd.dll
+C:\Users\windows\AppData\Local\Temp\i1va0yn3\i1va0yn3.cmdline
+C:\Users\windows\AppData\Local\Temp\i1va0yn3\i1va0yn3.dll
+C:\Users\windows\AppData\Local\Temp\i4qjstwl\i4qjstwl.cmdline
+C:\Users\windows\AppData\Local\Temp\i4qjstwl\i4qjstwl.dll
+C:\Users\windows\AppData\Local\Temp\ic04w5qq\ic04w5qq.cmdline
+C:\Users\windows\AppData\Local\Temp\ic04w5qq\ic04w5qq.dll
+C:\Users\windows\AppData\Local\Temp\ie4uinit.exe
+C:\Users\windows\AppData\Local\Temp\ivitcyua\ivitcyua.cmdline
+C:\Users\windows\AppData\Local\Temp\ivitcyua\ivitcyua.dll
+C:\Users\windows\AppData\Local\Temp\j225mdpu\j225mdpu.cmdline
+C:\Users\windows\AppData\Local\Temp\j225mdpu\j225mdpu.dll
+C:\Users\windows\AppData\Local\Temp\jcp4wflp\jcp4wflp.cmdline
+C:\Users\windows\AppData\Local\Temp\jcp4wflp\jcp4wflp.dll
+C:\Users\windows\AppData\Local\Temp\jk5lxon1\jk5lxon1.cmdline
+C:\Users\windows\AppData\Local\Temp\jmc3jgad\jmc3jgad.cmdline
+C:\Users\windows\AppData\Local\Temp\jmc3jgad\jmc3jgad.dll
+C:\Users\windows\AppData\Local\Temp\jme3mdry\jme3mdry.cmdline
+C:\Users\windows\AppData\Local\Temp\jme3mdry\jme3mdry.dll
+C:\Users\windows\AppData\Local\Temp\jnifda50\jnifda50.cmdline
+C:\Users\windows\AppData\Local\Temp\jx412hrl\jx412hrl.cmdline
+C:\Users\windows\AppData\Local\Temp\jx412hrl\jx412hrl.dll
+C:\Users\windows\AppData\Local\Temp\k1xbtwdd\k1xbtwdd.cmdline
+C:\Users\windows\AppData\Local\Temp\k1xbtwdd\k1xbtwdd.dll
+C:\Users\windows\AppData\Local\Temp\kgkyg5a2\kgkyg5a2.cmdline
+C:\Users\windows\AppData\Local\Temp\kgkyg5a2\kgkyg5a2.dll
+C:\Users\windows\AppData\Local\Temp\kmvqnanr\kmvqnanr.cmdline
+C:\Users\windows\AppData\Local\Temp\kmvqnanr\kmvqnanr.dll
+C:\Users\windows\AppData\Local\Temp\kzc5rdgi\kzc5rdgi.cmdline
+C:\Users\windows\AppData\Local\Temp\kzc5rdgi\kzc5rdgi.dll
+C:\Users\windows\AppData\Local\Temp\l5ilfdp2\l5ilfdp2.cmdline
+C:\Users\windows\AppData\Local\Temp\l5ilfdp2\l5ilfdp2.dll
+C:\Users\windows\AppData\Local\Temp\ljwb1xdu\ljwb1xdu.cmdline
+C:\Users\windows\AppData\Local\Temp\ljwb1xdu\ljwb1xdu.dll
+C:\Users\windows\AppData\Local\Temp\lkr5445c\lkr5445c.cmdline
+C:\Users\windows\AppData\Local\Temp\lkr5445c\lkr5445c.dll
+C:\Users\windows\AppData\Local\Temp\lqqclsr4\lqqclsr4.cmdline
+C:\Users\windows\AppData\Local\Temp\lqqclsr4\lqqclsr4.dll
+C:\Users\windows\AppData\Local\Temp\lurgry3e\lurgry3e.cmdline
+C:\Users\windows\AppData\Local\Temp\lurgry3e\lurgry3e.dll
+C:\Users\windows\AppData\Local\Temp\mdyxatpa\mdyxatpa.cmdline
+C:\Users\windows\AppData\Local\Temp\mgd45ctd\mgd45ctd.cmdline
+C:\Users\windows\AppData\Local\Temp\mgd45ctd\mgd45ctd.dll
+C:\Users\windows\AppData\Local\Temp\mlgytgee\mlgytgee.cmdline
+C:\Users\windows\AppData\Local\Temp\mqk4m0cc\mqk4m0cc.cmdline
+C:\Users\windows\AppData\Local\Temp\mqk4m0cc\mqk4m0cc.dll
+C:\Users\windows\AppData\Local\Temp\mumj3cir\mumj3cir.cmdline
+C:\Users\windows\AppData\Local\Temp\mumj3cir\mumj3cir.dll
+C:\Users\windows\AppData\Local\Temp\n3wonqo4\n3wonqo4.cmdline
+C:\Users\windows\AppData\Local\Temp\n3wonqo4\n3wonqo4.dll
+C:\Users\windows\AppData\Local\Temp\not_an_scr.scr
+C:\Users\windows\AppData\Local\Temp\nuw0t4br\nuw0t4br.cmdline
+C:\Users\windows\AppData\Local\Temp\nuw0t4br\nuw0t4br.dll
+C:\Users\windows\AppData\Local\Temp\o1pbntuv\o1pbntuv.cmdline
+C:\Users\windows\AppData\Local\Temp\o1pbntuv\o1pbntuv.dll
+C:\Users\windows\AppData\Local\Temp\o3vr4vrv\o3vr4vrv.cmdline
+C:\Users\windows\AppData\Local\Temp\o3vr4vrv\o3vr4vrv.dll
+C:\Users\windows\AppData\Local\Temp\o4z10ahv\o4z10ahv.cmdline
+C:\Users\windows\AppData\Local\Temp\o4z10ahv\o4z10ahv.dll
+C:\Users\windows\AppData\Local\Temp\oew14xvd\oew14xvd.cmdline
+C:\Users\windows\AppData\Local\Temp\oew14xvd\oew14xvd.dll
+C:\Users\windows\AppData\Local\Temp\og4bdnfj\og4bdnfj.cmdline
+C:\Users\windows\AppData\Local\Temp\og4bdnfj\og4bdnfj.dll
+C:\Users\windows\AppData\Local\Temp\oq1gxahe\oq1gxahe.cmdline
+C:\Users\windows\AppData\Local\Temp\oq1gxahe\oq1gxahe.dll
+C:\Users\windows\AppData\Local\Temp\oqikjax3\oqikjax3.cmdline
+C:\Users\windows\AppData\Local\Temp\oqikjax3\oqikjax3.dll
+C:\Users\windows\AppData\Local\Temp\otkx1znw\otkx1znw.cmdline
+C:\Users\windows\AppData\Local\Temp\otkx1znw\otkx1znw.dll
+C:\Users\windows\AppData\Local\Temp\ox0f022f\ox0f022f.cmdline
+C:\Users\windows\AppData\Local\Temp\ox0f022f\ox0f022f.dll
+C:\Users\windows\AppData\Local\Temp\pkt2vxy1\pkt2vxy1.cmdline
+C:\Users\windows\AppData\Local\Temp\pkt2vxy1\pkt2vxy1.dll
+C:\Users\windows\AppData\Local\Temp\pz1nznyr\pz1nznyr.cmdline
+C:\Users\windows\AppData\Local\Temp\pz1nznyr\pz1nznyr.dll
+C:\Users\windows\AppData\Local\Temp\qfn4ezck\qfn4ezck.cmdline
+C:\Users\windows\AppData\Local\Temp\qfn4ezck\qfn4ezck.dll
+C:\Users\windows\AppData\Local\Temp\qiewmab3\qiewmab3.cmdline
+C:\Users\windows\AppData\Local\Temp\qiewmab3\qiewmab3.dll
+C:\Users\windows\AppData\Local\Temp\qsfdjnib\qsfdjnib.cmdline
+C:\Users\windows\AppData\Local\Temp\qu1piooe\qu1piooe.cmdline
+C:\Users\windows\AppData\Local\Temp\qu1piooe\qu1piooe.dll
+C:\Users\windows\AppData\Local\Temp\rbex5bn4\rbex5bn4.cmdline
+C:\Users\windows\AppData\Local\Temp\rbex5bn4\rbex5bn4.dll
+C:\Users\windows\AppData\Local\Temp\rfar5cfs\rfar5cfs.dll
+C:\Users\windows\AppData\Local\Temp\rn0e2oev\rn0e2oev.cmdline
+C:\Users\windows\AppData\Local\Temp\rn0e2oev\rn0e2oev.dll
+C:\Users\windows\AppData\Local\Temp\rwl2cns0\rwl2cns0.cmdline
+C:\Users\windows\AppData\Local\Temp\rwl2cns0\rwl2cns0.dll
+C:\Users\windows\AppData\Local\Temp\s2pgyyyf\s2pgyyyf.cmdline
+C:\Users\windows\AppData\Local\Temp\s2pgyyyf\s2pgyyyf.dll
+C:\Users\windows\AppData\Local\Temp\s2ri1hh2\s2ri1hh2.cmdline
+C:\Users\windows\AppData\Local\Temp\s2ri1hh2\s2ri1hh2.dll
+C:\Users\windows\AppData\Local\Temp\sbjb5nss\sbjb5nss.cmdline
+C:\Users\windows\AppData\Local\Temp\sbjb5nss\sbjb5nss.dll
+C:\Users\windows\AppData\Local\Temp\sgdywwmd\sgdywwmd.cmdline
+C:\Users\windows\AppData\Local\Temp\sgdywwmd\sgdywwmd.dll
+C:\Users\windows\AppData\Local\Temp\sjlklpbv\sjlklpbv.cmdline
+C:\Users\windows\AppData\Local\Temp\sjlklpbv\sjlklpbv.dll
+C:\Users\windows\AppData\Local\Temp\slwj2blo\slwj2blo.cmdline
+C:\Users\windows\AppData\Local\Temp\slwj2blo\slwj2blo.dll
+C:\Users\windows\AppData\Local\Temp\stqhpft3\stqhpft3.cmdline
+C:\Users\windows\AppData\Local\Temp\stqhpft3\stqhpft3.dll
+C:\Users\windows\AppData\Local\Temp\sxy0ovz5\sxy0ovz5.cmdline
+C:\Users\windows\AppData\Local\Temp\sxy0ovz5\sxy0ovz5.dll
+C:\Users\windows\AppData\Local\Temp\thogpesy\thogpesy.cmdline
+C:\Users\windows\AppData\Local\Temp\thogpesy\thogpesy.dll
+C:\Users\windows\AppData\Local\Temp\tijvjdzv\tijvjdzv.cmdline
+C:\Users\windows\AppData\Local\Temp\tijvjdzv\tijvjdzv.dll
+C:\Users\windows\AppData\Local\Temp\tjk3p21m\tjk3p21m.cmdline
+C:\Users\windows\AppData\Local\Temp\tovmpxqj\tovmpxqj.cmdline
+C:\Users\windows\AppData\Local\Temp\tovmpxqj\tovmpxqj.dll
+C:\Users\windows\AppData\Local\Temp\ugtfhazx\ugtfhazx.cmdline
+C:\Users\windows\AppData\Local\Temp\ugtfhazx\ugtfhazx.dll
+C:\Users\windows\AppData\Local\Temp\ujqeys3u\ujqeys3u.cmdline
+C:\Users\windows\AppData\Local\Temp\ujqeys3u\ujqeys3u.dll
+C:\Users\windows\AppData\Local\Temp\una3mygc\una3mygc.cmdline
+C:\Users\windows\AppData\Local\Temp\una3mygc\una3mygc.dll
+C:\Users\windows\AppData\Local\Temp\uwo3jcuo\uwo3jcuo.cmdline
+C:\Users\windows\AppData\Local\Temp\uwo3jcuo\uwo3jcuo.dll
+C:\Users\windows\AppData\Local\Temp\v0ze1qa3\v0ze1qa3.cmdline
+C:\Users\windows\AppData\Local\Temp\v0ze1qa3\v0ze1qa3.dll
+C:\Users\windows\AppData\Local\Temp\vlhrgp5a\vlhrgp5a.cmdline
+C:\Users\windows\AppData\Local\Temp\vlhrgp5a\vlhrgp5a.dll
+C:\Users\windows\AppData\Local\Temp\vmf3vgrz\vmf3vgrz.cmdline
+C:\Users\windows\AppData\Local\Temp\vmf3vgrz\vmf3vgrz.dll
+C:\Users\windows\AppData\Local\Temp\waku032z\waku032z.cmdline
+C:\Users\windows\AppData\Local\Temp\waku032z\waku032z.dll
+C:\Users\windows\AppData\Local\Temp\wfamibqb\wfamibqb.cmdline
+C:\Users\windows\AppData\Local\Temp\wfamibqb\wfamibqb.dll
+C:\Users\windows\AppData\Local\Temp\wlzhr04y\wlzhr04y.cmdline
+C:\Users\windows\AppData\Local\Temp\wlzhr04y\wlzhr04y.dll
+C:\Users\windows\AppData\Local\Temp\wnmwyg2n\wnmwyg2n.cmdline
+C:\Users\windows\AppData\Local\Temp\wnmwyg2n\wnmwyg2n.dll
+C:\Users\windows\AppData\Local\Temp\wzutieot\wzutieot.cmdline
+C:\Users\windows\AppData\Local\Temp\wzutieot\wzutieot.dll
+C:\Users\windows\AppData\Local\Temp\x4meovqh\x4meovqh.cmdline
+C:\Users\windows\AppData\Local\Temp\x4meovqh\x4meovqh.dll
+C:\Users\windows\AppData\Local\Temp\x5b3h5vd\x5b3h5vd.cmdline
+C:\Users\windows\AppData\Local\Temp\x5b3h5vd\x5b3h5vd.dll
+C:\Users\windows\AppData\Local\Temp\xmjqjhz1\xmjqjhz1.cmdline
+C:\Users\windows\AppData\Local\Temp\xmjqjhz1\xmjqjhz1.dll
+C:\Users\windows\AppData\Local\Temp\xtmxxies\xtmxxies.cmdline
+C:\Users\windows\AppData\Local\Temp\xtmxxies\xtmxxies.dll
+C:\Users\windows\AppData\Local\Temp\y3jxjhrw\y3jxjhrw.cmdline
+C:\Users\windows\AppData\Local\Temp\y3jxjhrw\y3jxjhrw.dll
+C:\Users\windows\AppData\Local\Temp\y42ptpnt\y42ptpnt.cmdline
+C:\Users\windows\AppData\Local\Temp\y42ptpnt\y42ptpnt.dll
+C:\Users\windows\AppData\Local\Temp\ybmxajdc\ybmxajdc.cmdline
+C:\Users\windows\AppData\Local\Temp\ybmxajdc\ybmxajdc.dll
+C:\Users\windows\AppData\Local\Temp\yewiza43\yewiza43.cmdline
+C:\Users\windows\AppData\Local\Temp\yewiza43\yewiza43.dll
+C:\Users\windows\AppData\Local\Temp\yggyot3i\yggyot3i.cmdline
+C:\Users\windows\AppData\Local\Temp\yggyot3i\yggyot3i.dll
+C:\Users\windows\AppData\Local\Temp\ykgm1n1u\ykgm1n1u.cmdline
+C:\Users\windows\AppData\Local\Temp\ykgm1n1u\ykgm1n1u.dll
+C:\Users\windows\AppData\Local\Temp\ylgh410b\ylgh410b.cmdline
+C:\Users\windows\AppData\Local\Temp\ylgh410b\ylgh410b.dll
+C:\Users\windows\AppData\Local\Temp\ysinrncx\ysinrncx.cmdline
+C:\Users\windows\AppData\Local\Temp\ysinrncx\ysinrncx.dll
+C:\Users\windows\AppData\Local\Temp\z5oold1v\z5oold1v.cmdline
+C:\Users\windows\AppData\Local\Temp\z5oold1v\z5oold1v.dll
+C:\Users\windows\AppData\Local\Temp\zdudnia3\zdudnia3.cmdline
+C:\Users\windows\AppData\Local\Temp\zdudnia3\zdudnia3.dll
+C:\Users\windows\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\T1218.005.hta
+C:\Users\windows\AtomicTest.dll
+C:\Users\windows\Desktop\AnyDesk.exe
+C:\Users\windows\Desktop\TeamViewer_Setup.exe
+C:\Users\windows\Downloads\chromebrowsinghistory.txt
+C:\Users\windows\Downloads\edgebrowsinghistory.txt
+C:\Windows \System32\mmc.exe
+C:\Windows\PSEXESVC.exe
+C:\Windows\System32\AtomicRedTeamPWFilter.dll
+C:\Windows\System32\NPPSPY.dll
+C:\Windows\System32\Tasks\ATOMIC-T1053.005
+C:\Windows\System32\Tasks\AtomicTask
+C:\Windows\System32\Tasks\AtomicTaskModifed
+C:\Windows\System32\Tasks\CSC2B41278A254946BE7CF517E79C4F9.TMP
+C:\Windows\System32\Tasks\CompMgmtBypass
+C:\Windows\System32\Tasks\EventViewerBypass
+C:\Windows\System32\Tasks\Microsoft\Windows\UpdateOrchestrator\Schedule Maintenance Work
+C:\Windows\System32\Tasks\Microsoft\Windows\UpdateOrchestrator\Schedule Wake To Work
+C:\Windows\System32\Tasks\Microsoft\Windows\UpdateOrchestrator\Schedule Work
+C:\Windows\System32\Tasks\Run Notepad
+C:\Windows\System32\Tasks\T1053_005_OnLogon
+C:\Windows\System32\Tasks\T1053_005_OnStartup
+C:\Windows\System32\Tasks\T1053_005_WMI
+C:\Windows\System32\Tasks\atomic red team
+C:\Windows\System32\Tasks\notepad.exe
+C:\Windows\System32\Tasks\readme.InstallState
+C:\Windows\System32\Tasks\readme.txt
+C:\Windows\System32\Tasks\spawn
+C:\Windows\System32\W64Time.dll
+C:\Windows\System32\WinAppXRT.dll
+C:\Windows\System32\WindowsCoreDeviceInfo.dll
+C:\Windows\System32\spool\prtprocs\x64\AtomicTest.dll
+C:\Windows\System32\termsrv_backup.dll
+C:\Windows\System32\wbem\AutoRecover\BE941EED73FA65C764857930E033B541.mof
+C:\Windows\SystemTemp\__PSScriptPolicyTest_43crh4s4.fex.ps1
+C:\Windows\SystemTemp\__PSScriptPolicyTest_jyoezgjg.osh.ps1
+C:\Windows\SystemTemp\__PSScriptPolicyTest_qeql04vm.inx.ps1
+C:\Windows\SystemTemp\__PSScriptPolicyTest_vhaldb5p.2ix.ps1
+C:\Windows\Temp\T1027.004.exe
+C:\Windows\Temp\dumpert.dmp
+C:\Windows\Temp\lsass-xordump.t1003.001.dmp
+C:\Windows\Temp\lsass_dump-10.dmp
+C:\Windows\Temp\lsass_dump-11.dmp
+C:\Windows\Temp\svchost.exe
+C:\Windows\apppatch\CustomSDB\{084c9f6c-a911-44f5-aecf-6a9a55b93c43}.sdb
+C:\Windows\apppatch\Custom\Custom64\T1546.011CompatDatabase.sdb
+C:\Windows\apppatch\Custom\T1546.011CompatDatabase.sdb
+C:\Windows\rubeus.exe
+C:\lsm.exe
+C:\test\explorer.exe
+C:\testbypass.exe

@@ -1,0 +1,212 @@
+:START_ID(Registry),:END_ID(Trace)
+HKCR\CLSID\{63D4B3B4-A4E1-4DE2-AF2F-AB658057184F}\InprocServer32\(Default),38e082b33da9a4ee78a0e6ff28af6919
+HKCR\CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\shell\open\command\(Default),a1afb178d58f0c9678bca47d09ba164b
+HKCR\Directory\background\shell\Size Modify\command\(Default),a1afb178d58f0c9678bca47d09ba164b
+HKCR\Directory\background\shell\Size Modify\command\(Default),b5d9e2083eb8374305334d9ec2f40728
+HKCR\WOW6432Node\CLSID\{1F58AE05-0945-3625-8538-9E0CB19B3EC5}\InprocServer32\(Default),3f78e2cf2cd68a8b203e9758a2ebc6b1
+HKCR\WOW6432Node\CLSID\{63D4B3B4-A4E1-4DE2-AF2F-AB658057184F}\InprocServer32\(Default),77457ecfd88f69809e5ea44655aa440d
+HKLM\SOFTWARE\Microsoft\NetSh\NetshHelper,e515dbb7e00c4ee0dccb37530230880c
+HKLM\SOFTWARE\Microsoft\Windows Defender\Real-Time Protection\DisableRealtimeMonitoring,c177c8435c5513d4a49f1de19b6ee685
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Custom\AtomicRedTeamT1546.011,e515dbb7e00c4ee0dccb37530230880c
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Custom\AtomicTest.exe\{084c9f6c-a911-44f5-aecf-6a9a55b93c43}.sdb,21cd85d7ee334ca233a0b2376f8126a3
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Custom\AtomicTest.exe\{084c9f6c-a911-44f5-aecf-6a9a55b93c43}.sdb,e515dbb7e00c4ee0dccb37530230880c
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB\AtomicRedTeamT1546.011,e515dbb7e00c4ee0dccb37530230880c
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB\{084c9f6c-a911-44f5-aecf-6a9a55b93c43}\DatabaseDescription,21cd85d7ee334ca233a0b2376f8126a3
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB\{084c9f6c-a911-44f5-aecf-6a9a55b93c43}\DatabaseDescription,e515dbb7e00c4ee0dccb37530230880c
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB\{084c9f6c-a911-44f5-aecf-6a9a55b93c43}\DatabaseInstallTimeStamp,21cd85d7ee334ca233a0b2376f8126a3
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB\{084c9f6c-a911-44f5-aecf-6a9a55b93c43}\DatabaseInstallTimeStamp,e515dbb7e00c4ee0dccb37530230880c
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB\{084c9f6c-a911-44f5-aecf-6a9a55b93c43}\DatabasePath,21cd85d7ee334ca233a0b2376f8126a3
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB\{084c9f6c-a911-44f5-aecf-6a9a55b93c43}\DatabasePath,e515dbb7e00c4ee0dccb37530230880c
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB\{084c9f6c-a911-44f5-aecf-6a9a55b93c43}\DatabaseRuntimePlatform,21cd85d7ee334ca233a0b2376f8126a3
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB\{084c9f6c-a911-44f5-aecf-6a9a55b93c43}\DatabaseRuntimePlatform,e515dbb7e00c4ee0dccb37530230880c
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB\{084c9f6c-a911-44f5-aecf-6a9a55b93c43}\DatabaseType,21cd85d7ee334ca233a0b2376f8126a3
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB\{084c9f6c-a911-44f5-aecf-6a9a55b93c43}\DatabaseType,e515dbb7e00c4ee0dccb37530230880c
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DisplaySwitch.exe\Debugger,e6cada612c2a9645bf7de2c99a9516b6
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\atbroker.exe\Debugger,e6cada612c2a9645bf7de2c99a9516b6
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\calc.exe\Debugger,0b30925c8e876469baba224da3f8a894
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\lsass.exe\GlobalFlag,c9226647eb780e4e23328a9fd36096d5
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\magnify.exe\Debugger,e6cada612c2a9645bf7de2c99a9516b6
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\narrator.exe\Debugger,e6cada612c2a9645bf7de2c99a9516b6
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osk.exe\Debugger,e6cada612c2a9645bf7de2c99a9516b6
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sethc.exe\Debugger,e6cada612c2a9645bf7de2c99a9516b6
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\utilman.exe\Debugger,e6cada612c2a9645bf7de2c99a9516b6
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows\LoadAppInit_DLLs,bc8f9502919badb9a3ef4676a716e7c8
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit,c0d774afe97d5224da549e646523e8eb
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit-backup,c0d774afe97d5224da549e646523e8eb
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\cmmgr32.exe\ProfileInstallPath,c3f3b58aa7fe9a7286279edd020f6e68
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\olk.exe\(Default),b101c6cca0439f6d38d688e3473868eb
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\olk.exe\Path,b101c6cca0439f6d38d688e3473868eb
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Hidden,1ccb043749393cf7cfb48420e94651ab
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ShowSuperHidden,1ccb043749393cf7cfb48420e94651ab
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run\atomictest,1c2e21d0de5c1b2e51e66cb86b29de0e
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\EnableLUA,52e61dec18d76d71aba8fdf08c994651
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\EnableLUA,8ef6078015effa429f200ae4bc748ff9
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnceEx\0001\Depend\1,a1afb178d58f0c9678bca47d09ba164b
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce\GrpConv,3f78e2cf2cd68a8b203e9758a2ebc6b1
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce\wextract_cleanup0,43bda29fb27f63dae74e8f693ca904da
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\VEDetector,cb45fff1d99756786eeec4022b3da9de
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\WINEVT\Channels\Microsoft-Windows-Windows Defender/Operational\Enabled,24a6ef3afd5861b18ab731fe64c98fd8
+HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile\EnableFirewall,ad76aa39f54fd88ad8aa15128baa0969
+HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\StandardProfile\EnableFirewall,ad76aa39f54fd88ad8aa15128baa0969
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\RunOnce\NSIS.Library.RegTool.v3,77457ecfd88f69809e5ea44655aa440d
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Run\KeyScrambler,77457ecfd88f69809e5ea44655aa440d
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\KeyScrambler\Publisher,77457ecfd88f69809e5ea44655aa440d
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\KeyScrambler\URLUpdateInfo,77457ecfd88f69809e5ea44655aa440d
+HKLM\System\CurrentControlSet\Control\BootVerificationProgram\ImagePath,ae678a8fca2804305c9094c5fe4cdcaa
+HKLM\System\CurrentControlSet\Control\Class\{4d36e965-e325-11ce-bfc1-08002be10318}\0001\DriverVersion,6959c01cecf42500b8e98a5f10206daa
+HKLM\System\CurrentControlSet\Control\Class\{4d36e965-e325-11ce-bfc1-08002be10318}\0002\DriverVersion,6959c01cecf42500b8e98a5f10206daa
+HKLM\System\CurrentControlSet\Control\Class\{4d36e965-e325-11ce-bfc1-08002be10318}\0003\DriverVersion,6959c01cecf42500b8e98a5f10206daa
+HKLM\System\CurrentControlSet\Control\Class\{4d36e97b-e325-11ce-bfc1-08002be10318}\0002\DriverVersion,6959c01cecf42500b8e98a5f10206daa
+HKLM\System\CurrentControlSet\Control\Lsa\LMCompatibilityLevel,3f78e2cf2cd68a8b203e9758a2ebc6b1
+HKLM\System\CurrentControlSet\Control\Lsa\MSV1_0\NtlmMinClientSec,3f78e2cf2cd68a8b203e9758a2ebc6b1
+HKLM\System\CurrentControlSet\Control\Lsa\MSV1_0\RestrictSendingNTLMTraffic,3f78e2cf2cd68a8b203e9758a2ebc6b1
+HKLM\System\CurrentControlSet\Control\Lsa\Notification Packages,c391671708cab25ac6cd17047be9c1c7
+HKLM\System\CurrentControlSet\Control\Lsa\RunAsPPL,4906f8490f88b8db2e9b316e5c5df67e
+HKLM\System\CurrentControlSet\Control\Lsa\Security Packages,372eb389499685a7377983d09c6df80c
+HKLM\System\CurrentControlSet\Control\Lsa\Security Packages old,372eb389499685a7377983d09c6df80c
+HKLM\System\CurrentControlSet\Control\NetworkProvider\Order\PROVIDERORDER,d284078454aad40f73e312de24687e84
+HKLM\System\CurrentControlSet\Control\Session Manager\AppCertDlls\AtomicTest,ca1a91015c6d00db4333745fdb197fb4
+HKLM\System\CurrentControlSet\Control\Session Manager\BootExecute,1c2e21d0de5c1b2e51e66cb86b29de0e
+HKLM\System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp\PortNumber,0a014c72182425bcbc6831e0815dc80d
+HKLM\System\CurrentControlSet\Enum\SCSI\CdRom&Ven_Msft&Prod_Virtual_DVD-ROM\2&1f4adffe&0&000001\FriendlyName,6959c01cecf42500b8e98a5f10206daa
+HKLM\System\CurrentControlSet\Enum\SCSI\CdRom&Ven_Msft&Prod_Virtual_DVD-ROM\2&1f4adffe&0&000002\FriendlyName,6959c01cecf42500b8e98a5f10206daa
+HKLM\System\CurrentControlSet\Enum\SCSI\CdRom&Ven_Msft&Prod_Virtual_DVD-ROM\2&1f4adffe&0&000003\FriendlyName,6959c01cecf42500b8e98a5f10206daa
+HKLM\System\CurrentControlSet\Services\ARTService\ImagePath,38e082b33da9a4ee78a0e6ff28af6919
+HKLM\System\CurrentControlSet\Services\ARTService\Start,38e082b33da9a4ee78a0e6ff28af6919
+HKLM\System\CurrentControlSet\Services\AtomicService\ImagePath,38e082b33da9a4ee78a0e6ff28af6919
+HKLM\System\CurrentControlSet\Services\AtomicService\Start,38e082b33da9a4ee78a0e6ff28af6919
+HKLM\System\CurrentControlSet\Services\PSEXESVC\ImagePath,38e082b33da9a4ee78a0e6ff28af6919
+HKLM\System\CurrentControlSet\Services\PSEXESVC\ImagePath,4ba06107d6518e485b84ca77c442137e
+HKLM\System\CurrentControlSet\Services\PSEXESVC\ImagePath,a154b9d31025afbb0a2c4407273fa994
+HKLM\System\CurrentControlSet\Services\PSEXESVC\Start,38e082b33da9a4ee78a0e6ff28af6919
+HKLM\System\CurrentControlSet\Services\PSEXESVC\Start,4ba06107d6518e485b84ca77c442137e
+HKLM\System\CurrentControlSet\Services\PSEXESVC\Start,a154b9d31025afbb0a2c4407273fa994
+HKLM\System\CurrentControlSet\Services\QFXUpdateService\ImagePath,38e082b33da9a4ee78a0e6ff28af6919
+HKLM\System\CurrentControlSet\Services\QFXUpdateService\Start,38e082b33da9a4ee78a0e6ff28af6919
+HKLM\System\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\PublicProfile\DoNotAllowExceptions,844ba285ba51902bf128adcd47279305
+HKLM\System\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\PublicProfile\EnableFirewall,844ba285ba51902bf128adcd47279305
+HKLM\System\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\PublicProfile\EnableFirewall,ad76aa39f54fd88ad8aa15128baa0969
+HKLM\System\CurrentControlSet\Services\Spooler\Start,38e082b33da9a4ee78a0e6ff28af6919
+HKLM\System\CurrentControlSet\Services\TermService\Parameters\ServiceDll,3f78e2cf2cd68a8b203e9758a2ebc6b1
+HKLM\System\CurrentControlSet\Services\W64Time\ImagePath,eacf17910541b5f8e1bfcc70a94e994a
+HKLM\System\CurrentControlSet\Services\W64Time\Parameters\ServiceDll,d31a33ba38b11f65718819d95383128d
+HKLM\System\CurrentControlSet\Services\W64Time\Start,eacf17910541b5f8e1bfcc70a94e994a
+HKLM\System\CurrentControlSet\Services\WdNisDrv\Start,1e2dcb24c615e3efd9b31ba678ce3c8b
+HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2094680347-1556095874-3079192825-1001\\Device\HarddiskVolume3\Windows\regedit.exe,6210dead77a3b67fcf444a6250321aab
+HKLM\System\CurrentControlSet\Services\calcservice\ImagePath,ea35e321d5191728b8ed5b2bb1230557
+HKU\S-1-5-21-2094680347-1556095874-3079192825-1001\Environment\UserInitMprLogonScript,e5efb9af863daa5b48eca2ab3a60ba59
+HKU\S-1-5-21-2094680347-1556095874-3079192825-1001\SOFTWARE\Microsoft\Windows\CurrentVersion\Applets\Regedit\FindFlags,6210dead77a3b67fcf444a6250321aab
+HKU\S-1-5-21-2094680347-1556095874-3079192825-1001\SOFTWARE\Microsoft\Windows\CurrentVersion\Applets\Regedit\LastKey,6210dead77a3b67fcf444a6250321aab
+HKU\S-1-5-21-2094680347-1556095874-3079192825-1001\SOFTWARE\Microsoft\Windows\CurrentVersion\Applets\Regedit\View,6210dead77a3b67fcf444a6250321aab
+HKU\S-1-5-21-2094680347-1556095874-3079192825-1001\SOFTWARE\Sysinternals\ProcDump\EulaAccepted,c9226647eb780e4e23328a9fd36096d5
+HKU\S-1-5-21-2094680347-1556095874-3079192825-1001\SOFTWARE\Sysinternals\PsExec\EulaAccepted,00d164704b354a220aecf39d30c8d9cc
+HKU\S-1-5-21-2094680347-1556095874-3079192825-1001_Classes\mscfile\shell\open\command\(Default),c7414c0045c3cc9e66ca092ceeef1588
+HKU\S-1-5-21-2383145970-129279883-3462091186-1000\Control Panel\NotifyIconSettings\10398942480507231845\Publisher,b0728cfc4e35d6fc96fd37dd4da19f5b
+HKU\S-1-5-21-2383145970-129279883-3462091186-1000\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store\C:\Users\emps\AppData\Local\Temp\KeyScrambler.exe,38e082b33da9a4ee78a0e6ff28af6919
+HKU\S-1-5-21-2383145970-129279883-3462091186-1000\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.exe\OpenWithProgids\exefile,b0728cfc4e35d6fc96fd37dd4da19f5b
+HKU\S-1-5-21-2383145970-129279883-3462091186-1000\SOFTWARE\Sysinternals\PsExec\EulaAccepted,24a6ef3afd5861b18ab731fe64c98fd8
+HKU\S-1-5-21-2383145970-129279883-3462091186-1000\SOFTWARE\Sysinternals\PsExec\EulaAccepted,38e082b33da9a4ee78a0e6ff28af6919
+HKU\S-1-5-21-2383145970-129279883-3462091186-1000\SOFTWARE\Sysinternals\PsExec\EulaAccepted,5305c0dd44dd02b1dd2a672916325d06
+HKU\S-1-5-21-2383145970-129279883-3462091186-1000_Classes\CLSID\{09108e71-974c-4010-89cb-acf471ae9e2c}\InprocServer32\(Default),87b525fb417f40b1c75678810bde13c7
+HKU\S-1-5-21-2977457037-1072569329-2934312763-500\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store\C:\Program Files\Google\Chrome\Application\chrome.exe,cd67e5cbb56ac826bc6571c2564d86ff
+HKU\S-1-5-21-2977457037-1072569329-2934312763-500\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders\Startup,21cd85d7ee334ca233a0b2376f8126a3
+HKU\S-1-5-21-2977457037-1072569329-2934312763-500\Software\Microsoft\Windows\CurrentVersion\RunNotification\batstartup.bat,ac753e8ec10778f3bd333c00708b5202
+HKU\S-1-5-21-2977457037-1072569329-2934312763-500\Software\Microsoft\Windows\CurrentVersion\RunNotification\calc_exe.lnk,ac753e8ec10778f3bd333c00708b5202
+HKU\S-1-5-21-2977457037-1072569329-2934312763-500\Software\Microsoft\Windows\CurrentVersion\RunNotification\jsestartup.jse,ac753e8ec10778f3bd333c00708b5202
+HKU\S-1-5-21-2977457037-1072569329-2934312763-500\Software\Microsoft\Windows\CurrentVersion\RunNotification\socks5_powershell,ac753e8ec10778f3bd333c00708b5202
+HKU\S-1-5-21-2977457037-1072569329-2934312763-500\Software\Microsoft\Windows\CurrentVersion\RunNotification\vbsstartup.vbs,ac753e8ec10778f3bd333c00708b5202
+HKU\S-1-5-21-2977457037-1072569329-2934312763-500\Software\Microsoft\Windows\CurrentVersion\Run\socks5_powershell,a1afb178d58f0c9678bca47d09ba164b
+HKU\S-1-5-21-2977457037-1072569329-2934312763-500_Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}\InprocServer32\(Default),b5d9e2083eb8374305334d9ec2f40728
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store\C:\Program Files\Google\Chrome\Application\chrome.exe,a154b9d31025afbb0a2c4407273fa994
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500\Software\Microsoft\Windows\CurrentVersion\RunNotification\Opera Browser Assistant,013290fb9de1a451d0b6ec0be0738f16
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500\Software\Microsoft\Windows\CurrentVersion\RunNotification\Opera Stable,013290fb9de1a451d0b6ec0be0738f16
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500\Software\Microsoft\Windows\CurrentVersion\RunNotification\T1547.009.lnk,013290fb9de1a451d0b6ec0be0738f16
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500\Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached\{E44E9428-BDBC-4987-A099-40DC8FD255E7} {7F9185B0-CB92-43C5-80A9-92277A4F7B54} 0xFFFF,8fa27adc8e68abfd9f564bac4a6404c0
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500\Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached\{FBF23B40-E3F0-101B-8488-00AA003E56F8} {000214E4-0000-0000-C000-000000000046} 0xFFFF,6a7e752d6fd59791b6b416dd6645c4be
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500\Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached\{FBF23B40-E3F0-101B-8488-00AA003E56F8} {000214E4-0000-0000-C000-000000000046} 0xFFFF,9273fb59065ad39b4106b62527332d54
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500\Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached\{FBF23B40-E3F0-101B-8488-00AA003E56F8} {000214E4-0000-0000-C000-000000000046} 0xFFFF,c0720a168cdbe2b63219588b0246b627
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500\Software\Sysinternals\PsExec\EulaAccepted,8fa27adc8e68abfd9f564bac4a6404c0
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500\Software\Sysinternals\PsExec\EulaAccepted,ab9b0d5a28b3f6fcf3066e92b4baa833
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500\Software\Sysinternals\PsExec\EulaAccepted,b00e60dd1847fe19ce22b6468734ab5a
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500\Software\Sysinternals\PsExec\EulaAccepted,f0ee8504c053ccbba26d6dd9948a696e
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500_Classes\Folder\shell\open\command\(Default),8fa27adc8e68abfd9f564bac4a6404c0
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500_Classes\Folder\shell\open\command\DelegateExecute,8fa27adc8e68abfd9f564bac4a6404c0
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500_Classes\ms-settings\shell\open\command\(Default),09642fc2ecb50bd2d540e58cc596514d
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500_Classes\ms-settings\shell\open\command\(Default),8fa27adc8e68abfd9f564bac4a6404c0
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500_Classes\ms-settings\shell\open\command\(Default),a5d0773c6bf27829d6ea7c6ba74169a7
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500_Classes\ms-settings\shell\open\command\DelegateExecute,09642fc2ecb50bd2d540e58cc596514d
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500_Classes\ms-settings\shell\open\command\DelegateExecute,372eb389499685a7377983d09c6df80c
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500_Classes\ms-settings\shell\open\command\DelegateExecute,8fa27adc8e68abfd9f564bac4a6404c0
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500_Classes\ms-settings\shell\open\command\DelegateExecute,a5d0773c6bf27829d6ea7c6ba74169a7
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500_Classes\mscfile\shell\open\command\(Default),5478e137d6cd98d1b62528fe01355d57
+HKU\S-1-5-21-3897270728-2537144541-2831980871-500_Classes\mscfile\shell\open\command\(Default),8fa27adc8e68abfd9f564bac4a6404c0
+\REGISTRY\A\{052c2805-56b0-927d-ab3c-79fc6664e662}\Root\InventoryApplicationFile\keyscrambler.exe|7b29fee91d49d2ff\BinProductVersion,38e082b33da9a4ee78a0e6ff28af6919
+\REGISTRY\A\{052c2805-56b0-927d-ab3c-79fc6664e662}\Root\InventoryApplicationFile\keyscrambler.exe|7b29fee91d49d2ff\LinkDate,38e082b33da9a4ee78a0e6ff28af6919
+\REGISTRY\A\{052c2805-56b0-927d-ab3c-79fc6664e662}\Root\InventoryApplicationFile\keyscrambler.exe|7b29fee91d49d2ff\LowerCaseLongPath,38e082b33da9a4ee78a0e6ff28af6919
+\REGISTRY\A\{052c2805-56b0-927d-ab3c-79fc6664e662}\Root\InventoryApplicationFile\keyscrambler.exe|7b29fee91d49d2ff\Publisher,38e082b33da9a4ee78a0e6ff28af6919
+\REGISTRY\A\{0f31458d-58c5-a825-3a2f-152e9df6f564}\Root\InventoryApplicationFile\psexesvc.exe|a46196189c17b259\BinProductVersion,38e082b33da9a4ee78a0e6ff28af6919
+\REGISTRY\A\{0f31458d-58c5-a825-3a2f-152e9df6f564}\Root\InventoryApplicationFile\psexesvc.exe|a46196189c17b259\LinkDate,38e082b33da9a4ee78a0e6ff28af6919
+\REGISTRY\A\{0f31458d-58c5-a825-3a2f-152e9df6f564}\Root\InventoryApplicationFile\psexesvc.exe|a46196189c17b259\LowerCaseLongPath,38e082b33da9a4ee78a0e6ff28af6919
+\REGISTRY\A\{0f31458d-58c5-a825-3a2f-152e9df6f564}\Root\InventoryApplicationFile\psexesvc.exe|a46196189c17b259\Publisher,38e082b33da9a4ee78a0e6ff28af6919
+\REGISTRY\A\{1a1bf25b-b828-8d4b-5792-4c3b9e7b2181}\Root\InventoryApplicationFile\powershell.exe|bd2e1475245f53a2\BinProductVersion,3b6fad470fb5a7e1747d9828e99b1f9d
+\REGISTRY\A\{1a1bf25b-b828-8d4b-5792-4c3b9e7b2181}\Root\InventoryApplicationFile\powershell.exe|bd2e1475245f53a2\LinkDate,3b6fad470fb5a7e1747d9828e99b1f9d
+\REGISTRY\A\{1a1bf25b-b828-8d4b-5792-4c3b9e7b2181}\Root\InventoryApplicationFile\powershell.exe|bd2e1475245f53a2\LowerCaseLongPath,3b6fad470fb5a7e1747d9828e99b1f9d
+\REGISTRY\A\{1a1bf25b-b828-8d4b-5792-4c3b9e7b2181}\Root\InventoryApplicationFile\powershell.exe|bd2e1475245f53a2\Publisher,3b6fad470fb5a7e1747d9828e99b1f9d
+\REGISTRY\A\{1a1bf25b-b828-8d4b-5792-4c3b9e7b2181}\Root\InventoryApplicationFile\taskhostw.exe|87c6c7cdfdc02bad\BinProductVersion,52c1800a9d9e07d522cf75cec31ec6eb
+\REGISTRY\A\{1a1bf25b-b828-8d4b-5792-4c3b9e7b2181}\Root\InventoryApplicationFile\taskhostw.exe|87c6c7cdfdc02bad\LinkDate,52c1800a9d9e07d522cf75cec31ec6eb
+\REGISTRY\A\{1a1bf25b-b828-8d4b-5792-4c3b9e7b2181}\Root\InventoryApplicationFile\taskhostw.exe|87c6c7cdfdc02bad\LowerCaseLongPath,52c1800a9d9e07d522cf75cec31ec6eb
+\REGISTRY\A\{1a1bf25b-b828-8d4b-5792-4c3b9e7b2181}\Root\InventoryApplicationFile\taskhostw.exe|87c6c7cdfdc02bad\Publisher,52c1800a9d9e07d522cf75cec31ec6eb
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\apphostregistrat|23d050ec54a320fe\BinProductVersion,1e2dcb24c615e3efd9b31ba678ce3c8b
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\apphostregistrat|23d050ec54a320fe\LinkDate,1e2dcb24c615e3efd9b31ba678ce3c8b
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\apphostregistrat|23d050ec54a320fe\LowerCaseLongPath,1e2dcb24c615e3efd9b31ba678ce3c8b
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\apphostregistrat|23d050ec54a320fe\Publisher,1e2dcb24c615e3efd9b31ba678ce3c8b
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\at.exe|2e5eea2e7c739f9c\BinProductVersion,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\at.exe|2e5eea2e7c739f9c\LinkDate,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\at.exe|2e5eea2e7c739f9c\LowerCaseLongPath,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\at.exe|2e5eea2e7c739f9c\Publisher,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\calc.exe|cc956044a5a77123\BinProductVersion,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\calc.exe|cc956044a5a77123\LinkDate,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\calc.exe|cc956044a5a77123\LowerCaseLongPath,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\calc.exe|cc956044a5a77123\Publisher,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\clipesuconsumer.|c5f2f3ea55547c5\BinProductVersion,1e2dcb24c615e3efd9b31ba678ce3c8b
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\clipesuconsumer.|c5f2f3ea55547c5\LinkDate,1e2dcb24c615e3efd9b31ba678ce3c8b
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\clipesuconsumer.|c5f2f3ea55547c5\LowerCaseLongPath,1e2dcb24c615e3efd9b31ba678ce3c8b
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\clipesuconsumer.|c5f2f3ea55547c5\Publisher,1e2dcb24c615e3efd9b31ba678ce3c8b
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\curl.exe|7d5069349cd29a7c\BinProductVersion,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\curl.exe|7d5069349cd29a7c\LinkDate,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\curl.exe|7d5069349cd29a7c\LowerCaseLongPath,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\curl.exe|7d5069349cd29a7c\Publisher,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\lsm.exe|dd1d64182e1b48ae\BinProductVersion,1e2dcb24c615e3efd9b31ba678ce3c8b
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\lsm.exe|dd1d64182e1b48ae\LinkDate,1e2dcb24c615e3efd9b31ba678ce3c8b
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\lsm.exe|dd1d64182e1b48ae\LowerCaseLongPath,1e2dcb24c615e3efd9b31ba678ce3c8b
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\lsm.exe|dd1d64182e1b48ae\Publisher,1e2dcb24c615e3efd9b31ba678ce3c8b
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\mmc.exe|8471611706ce450b\BinProductVersion,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\mmc.exe|8471611706ce450b\LinkDate,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\mmc.exe|8471611706ce450b\LowerCaseLongPath,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\mmc.exe|8471611706ce450b\Publisher,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\netstat.exe|ce8db1f5bbf4e72d\BinProductVersion,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\netstat.exe|ce8db1f5bbf4e72d\LinkDate,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\netstat.exe|ce8db1f5bbf4e72d\LowerCaseLongPath,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\netstat.exe|ce8db1f5bbf4e72d\Publisher,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\svchost.exe|9285bd25641eb9b\BinProductVersion,1e2dcb24c615e3efd9b31ba678ce3c8b
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\svchost.exe|9285bd25641eb9b\LinkDate,1e2dcb24c615e3efd9b31ba678ce3c8b
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\svchost.exe|9285bd25641eb9b\LowerCaseLongPath,1e2dcb24c615e3efd9b31ba678ce3c8b
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\svchost.exe|9285bd25641eb9b\Publisher,1e2dcb24c615e3efd9b31ba678ce3c8b
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\unsecapp.exe|c11d412e85f8935b\BinProductVersion,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\unsecapp.exe|c11d412e85f8935b\LinkDate,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\unsecapp.exe|c11d412e85f8935b\LowerCaseLongPath,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{40b0637f-debc-7953-512c-91d8f43a0be1}\Root\InventoryApplicationFile\unsecapp.exe|c11d412e85f8935b\Publisher,ae064f403a6da0a245790085c1edb456
+\REGISTRY\A\{89a0de95-35ee-0832-cb7a-d71b0e9918ed}\Root\InventoryDevicePnp\scsi/cdrom&ven_msft&prod_virtual_dvd-rom/2&1f4adffe&0&000001\DriverVerVersion,a154b9d31025afbb0a2c4407273fa994
+\REGISTRY\A\{89a0de95-35ee-0832-cb7a-d71b0e9918ed}\Root\InventoryDevicePnp\scsi/cdrom&ven_msft&prod_virtual_dvd-rom/2&1f4adffe&0&000002\DriverVerVersion,a154b9d31025afbb0a2c4407273fa994
+\REGISTRY\A\{89a0de95-35ee-0832-cb7a-d71b0e9918ed}\Root\InventoryDevicePnp\scsi/cdrom&ven_msft&prod_virtual_dvd-rom/2&1f4adffe&0&000003\DriverVerVersion,a154b9d31025afbb0a2c4407273fa994
+\REGISTRY\A\{89a0de95-35ee-0832-cb7a-d71b0e9918ed}\Root\InventoryDevicePnp\{8e7bd593-6e6c-4c52-86a6-77175494dd8e}/msvhdhba/1&3030e83&0&01\DriverVerVersion,a154b9d31025afbb0a2c4407273fa994
+\REGISTRY\A\{d4ed3b55-16d0-2212-ccd8-78ceedea79f0}\Root\InventoryApplication\0000213c4e5af7564e4e4e2cc93acccb717600001204\Publisher,21cd85d7ee334ca233a0b2376f8126a3
+\REGISTRY\A\{d4ed3b55-16d0-2212-ccd8-78ceedea79f0}\Root\InventoryApplication\000052ae85bf5a841404f4cc0dab298f009800001204\Publisher,21cd85d7ee334ca233a0b2376f8126a3
+\REGISTRY\A\{d4ed3b55-16d0-2212-ccd8-78ceedea79f0}\Root\InventoryApplication\00007e7af4fcbb0125ca3c3563fbb42a458700001204\Publisher,21cd85d7ee334ca233a0b2376f8126a3
+\REGISTRY\A\{d4ed3b55-16d0-2212-ccd8-78ceedea79f0}\Root\InventoryApplication\00007fa814339a0e9a45694eb2ef153a3efb00001204\Publisher,21cd85d7ee334ca233a0b2376f8126a3
+\REGISTRY\A\{d4ed3b55-16d0-2212-ccd8-78ceedea79f0}\Root\InventoryApplication\000088b118642764a463ba64ad6deb414d0b00001204\Publisher,21cd85d7ee334ca233a0b2376f8126a3
+\REGISTRY\A\{d4ed3b55-16d0-2212-ccd8-78ceedea79f0}\Root\InventoryApplication\0000a4a5e96c3b06403edb19001811a1545b00001204\Publisher,21cd85d7ee334ca233a0b2376f8126a3
+\REGISTRY\A\{d4ed3b55-16d0-2212-ccd8-78ceedea79f0}\Root\InventoryApplication\0000b43ab5458e6033f845e7d936dda72fa000001204\Publisher,21cd85d7ee334ca233a0b2376f8126a3
+\REGISTRY\A\{d4ed3b55-16d0-2212-ccd8-78ceedea79f0}\Root\InventoryApplication\0000e830061451afd73e76879989eb74b9cc00001204\Publisher,21cd85d7ee334ca233a0b2376f8126a3
+\REGISTRY\A\{d4ed3b55-16d0-2212-ccd8-78ceedea79f0}\Root\InventoryApplication\0000ef80ef64a424eb92be5cd094704f8f9a00001204\Publisher,21cd85d7ee334ca233a0b2376f8126a3
+\REGISTRY\A\{d4ed3b55-16d0-2212-ccd8-78ceedea79f0}\Root\InventoryApplication\0000f44479bf4fd611a6b8d67cc2392e9dfd00001204\Publisher,21cd85d7ee334ca233a0b2376f8126a3
